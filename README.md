@@ -23,7 +23,7 @@ Le dataset contient les colonnes suivantes :
 Le dataset complet peut être trouvé dans le fichier `EV_sales.csv`.
 
 ## Technologies et outils
-- Python 3
+- Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
