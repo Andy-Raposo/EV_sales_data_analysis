@@ -1,0 +1,2488 @@
+region,parameter,powertrain,year,unit,value
+Australia,EV sales,BEV,2011,Vehicles,49.0
+Australia,EV stock,BEV,2011,Vehicles,49.0
+Australia,EV stock,BEV,2012,Vehicles,220.0
+Australia,EV stock,PHEV,2012,Vehicles,80.0
+Australia,EV sales,PHEV,2012,Vehicles,80.0
+Australia,EV sales,BEV,2012,Vehicles,170.0
+Australia,EV sales,BEV,2013,Vehicles,190.0
+Australia,EV sales,PHEV,2013,Vehicles,100.0
+Australia,EV stock,PHEV,2013,Vehicles,180.0
+Australia,EV stock,BEV,2013,Vehicles,410.0
+Australia,EV stock,BEV,2014,Vehicles,780.0
+Australia,EV stock,PHEV,2014,Vehicles,1100.0
+Australia,EV sales,PHEV,2014,Vehicles,950.0
+Australia,EV sales,BEV,2014,Vehicles,370.0
+Australia,EV sales,BEV,2015,Vehicles,760.0
+Australia,EV sales,PHEV,2015,Vehicles,1000.0
+Australia,EV stock,PHEV,2015,Vehicles,2100.0
+Australia,EV stock,BEV,2015,Vehicles,1500.0
+Australia,EV stock,BEV,2016,Vehicles,2200.0
+Australia,EV stock,PHEV,2016,Vehicles,2800.0
+Australia,EV sales,PHEV,2016,Vehicles,700.0
+Australia,EV sales,BEV,2016,Vehicles,670.0
+Australia,EV sales,BEV,2017,Vehicles,1200.0
+Australia,EV sales,PHEV,2017,Vehicles,1100.0
+Australia,EV stock,PHEV,2017,Vehicles,3900.0
+Australia,EV stock,BEV,2017,Vehicles,3400.0
+Australia,EV stock,BEV,2018,Vehicles,5200.0
+Australia,EV stock,PHEV,2018,Vehicles,5700.0
+Australia,EV sales,PHEV,2018,Vehicles,1800.0
+Australia,EV sales,BEV,2018,Vehicles,1800.0
+Australia,EV sales,PHEV,2019,Vehicles,2900.0
+Australia,EV stock,PHEV,2019,Vehicles,8600.0
+Australia,EV stock,BEV,2019,Vehicles,12000.0
+Australia,EV sales,BEV,2019,Vehicles,6300.0
+Australia,EV sales,BEV,2020,Vehicles,5200.0
+Australia,EV stock,BEV,2020,Vehicles,17000.0
+Australia,EV stock,PHEV,2020,Vehicles,10000.0
+Australia,EV sales,PHEV,2020,Vehicles,1700.0
+Australia,EV sales,PHEV,2021,Vehicles,3400.0
+Australia,EV sales,FCEV,2021,Vehicles,44.0
+Australia,EV stock,PHEV,2021,Vehicles,14000.0
+Australia,EV stock,BEV,2021,Vehicles,34000.0
+Australia,EV sales,BEV,2021,Vehicles,17000.0
+Australia,EV stock,FCEV,2021,Vehicles,44.0
+Australia,EV stock,FCEV,2022,Vehicles,100.0
+Australia,EV sales,BEV,2022,Vehicles,33000.0
+Australia,EV stock,BEV,2022,Vehicles,67000.0
+Australia,EV stock,PHEV,2022,Vehicles,21000.0
+Australia,EV sales,FCEV,2022,Vehicles,15.0
+Australia,EV sales,PHEV,2022,Vehicles,5900.0
+Australia,EV sales,PHEV,2023,Vehicles,11000.0
+Australia,EV sales,FCEV,2023,Vehicles,6.0
+Australia,EV stock,PHEV,2023,Vehicles,31000.0
+Australia,EV stock,BEV,2023,Vehicles,150000.0
+Australia,EV sales,BEV,2023,Vehicles,87000.0
+Australia,EV stock,FCEV,2023,Vehicles,65.0
+Austria,EV stock,BEV,2010,Vehicles,350.0
+Austria,EV stock,BEV,2011,Vehicles,990.0
+Austria,EV stock,BEV,2012,Vehicles,1400.0
+Austria,EV stock,PHEV,2012,Vehicles,140.0
+Austria,EV stock,PHEV,2013,Vehicles,410.0
+Austria,EV stock,BEV,2013,Vehicles,2100.0
+Austria,EV sales,BEV,2013,Vehicles,650.0
+Austria,EV sales,BEV,2014,Vehicles,1700.0
+Austria,EV stock,BEV,2014,Vehicles,3400.0
+Austria,EV stock,PHEV,2014,Vehicles,780.0
+Austria,EV stock,FCEV,2014,Vehicles,3.0
+Austria,EV sales,FCEV,2014,Vehicles,6.0
+Austria,EV sales,FCEV,2015,Vehicles,4.0
+Austria,EV stock,FCEV,2015,Vehicles,6.0
+Austria,EV sales,PHEV,2015,Vehicles,1100.0
+Austria,EV stock,PHEV,2015,Vehicles,1500.0
+Austria,EV stock,BEV,2015,Vehicles,5000.0
+Austria,EV sales,BEV,2015,Vehicles,1700.0
+Austria,EV sales,BEV,2016,Vehicles,3800.0
+Austria,EV stock,BEV,2016,Vehicles,9100.0
+Austria,EV stock,PHEV,2016,Vehicles,2300.0
+Austria,EV sales,PHEV,2016,Vehicles,1200.0
+Austria,EV stock,FCEV,2016,Vehicles,13.0
+Austria,EV stock,FCEV,2017,Vehicles,19.0
+Austria,EV sales,PHEV,2017,Vehicles,1700.0
+Austria,EV stock,PHEV,2017,Vehicles,3900.0
+Austria,EV sales,FCEV,2017,Vehicles,2.0
+Austria,EV stock,BEV,2017,Vehicles,15000.0
+Austria,EV sales,BEV,2017,Vehicles,5400.0
+Austria,EV sales,BEV,2018,Vehicles,6800.0
+Austria,EV stock,BEV,2018,Vehicles,21000.0
+Austria,EV sales,FCEV,2018,Vehicles,7.0
+Austria,EV stock,PHEV,2018,Vehicles,5700.0
+Austria,EV sales,PHEV,2018,Vehicles,2300.0
+Austria,EV stock,FCEV,2018,Vehicles,24.0
+Austria,EV stock,FCEV,2019,Vehicles,41.0
+Austria,EV sales,PHEV,2019,Vehicles,2200.0
+Austria,EV stock,PHEV,2019,Vehicles,8000.0
+Austria,EV sales,FCEV,2019,Vehicles,19.0
+Austria,EV stock,BEV,2019,Vehicles,30000.0
+Austria,EV sales,BEV,2019,Vehicles,9300.0
+Austria,EV sales,BEV,2020,Vehicles,16000.0
+Austria,EV stock,BEV,2020,Vehicles,45000.0
+Austria,EV sales,FCEV,2020,Vehicles,14.0
+Austria,EV stock,PHEV,2020,Vehicles,15000.0
+Austria,EV sales,PHEV,2020,Vehicles,7600.0
+Austria,EV stock,FCEV,2020,Vehicles,45.0
+Austria,EV stock,FCEV,2021,Vehicles,55.0
+Austria,EV sales,PHEV,2021,Vehicles,15000.0
+Austria,EV stock,PHEV,2021,Vehicles,29000.0
+Austria,EV sales,FCEV,2021,Vehicles,14.0
+Austria,EV stock,BEV,2021,Vehicles,77000.0
+Austria,EV sales,BEV,2021,Vehicles,33000.0
+Austria,EV sales,BEV,2022,Vehicles,34000.0
+Austria,EV stock,BEV,2022,Vehicles,110000.0
+Austria,EV sales,FCEV,2022,Vehicles,14.0
+Austria,EV stock,PHEV,2022,Vehicles,42000.0
+Austria,EV sales,PHEV,2022,Vehicles,13000.0
+Austria,EV stock,FCEV,2022,Vehicles,62.0
+Austria,EV stock,FCEV,2023,Vehicles,89.0
+Austria,EV sales,PHEV,2023,Vehicles,17000.0
+Austria,EV stock,PHEV,2023,Vehicles,61000.0
+Austria,EV sales,FCEV,2023,Vehicles,9.0
+Austria,EV stock,BEV,2023,Vehicles,160000.0
+Austria,EV sales,BEV,2023,Vehicles,48000.0
+Belgium,EV stock,FCEV,2010,Vehicles,1.0
+Belgium,EV sales,PHEV,2010,Vehicles,8.0
+Belgium,EV stock,PHEV,2010,Vehicles,9.0
+Belgium,EV sales,BEV,2010,Vehicles,48.0
+Belgium,EV stock,BEV,2010,Vehicles,61.0
+Belgium,EV stock,BEV,2011,Vehicles,320.0
+Belgium,EV sales,BEV,2011,Vehicles,280.0
+Belgium,EV stock,PHEV,2011,Vehicles,26.0
+Belgium,EV sales,PHEV,2011,Vehicles,16.0
+Belgium,EV stock,FCEV,2011,Vehicles,1.0
+Belgium,EV stock,FCEV,2012,Vehicles,1.0
+Belgium,EV sales,PHEV,2012,Vehicles,340.0
+Belgium,EV stock,PHEV,2012,Vehicles,350.0
+Belgium,EV sales,BEV,2012,Vehicles,570.0
+Belgium,EV stock,BEV,2012,Vehicles,830.0
+Belgium,EV stock,BEV,2013,Vehicles,1200.0
+Belgium,EV sales,BEV,2013,Vehicles,500.0
+Belgium,EV stock,PHEV,2013,Vehicles,590.0
+Belgium,EV sales,PHEV,2013,Vehicles,60.0
+Belgium,EV stock,FCEV,2013,Vehicles,1.0
+Belgium,EV stock,FCEV,2014,Vehicles,2.0
+Belgium,EV sales,PHEV,2014,Vehicles,650.0
+Belgium,EV stock,PHEV,2014,Vehicles,1500.0
+Belgium,EV sales,BEV,2014,Vehicles,1300.0
+Belgium,EV stock,BEV,2014,Vehicles,2200.0
+Belgium,EV stock,BEV,2015,Vehicles,3300.0
+Belgium,EV sales,FCEV,2015,Vehicles,2.0
+Belgium,EV sales,BEV,2015,Vehicles,1400.0
+Belgium,EV stock,PHEV,2015,Vehicles,3800.0
+Belgium,EV sales,PHEV,2015,Vehicles,2500.0
+Belgium,EV stock,FCEV,2015,Vehicles,8.0
+Belgium,EV stock,FCEV,2016,Vehicles,20.0
+Belgium,EV sales,PHEV,2016,Vehicles,7100.0
+Belgium,EV stock,PHEV,2016,Vehicles,11000.0
+Belgium,EV sales,BEV,2016,Vehicles,2100.0
+Belgium,EV sales,FCEV,2016,Vehicles,7.0
+Belgium,EV stock,BEV,2016,Vehicles,5200.0
+Belgium,EV stock,BEV,2017,Vehicles,7500.0
+Belgium,EV sales,FCEV,2017,Vehicles,11.0
+Belgium,EV sales,BEV,2017,Vehicles,2700.0
+Belgium,EV stock,PHEV,2017,Vehicles,23000.0
+Belgium,EV sales,PHEV,2017,Vehicles,12000.0
+Belgium,EV stock,FCEV,2017,Vehicles,31.0
+Belgium,EV stock,FCEV,2018,Vehicles,44.0
+Belgium,EV sales,PHEV,2018,Vehicles,9600.0
+Belgium,EV stock,PHEV,2018,Vehicles,33000.0
+Belgium,EV sales,BEV,2018,Vehicles,3600.0
+Belgium,EV sales,FCEV,2018,Vehicles,13.0
+Belgium,EV stock,BEV,2018,Vehicles,11000.0
+Belgium,EV stock,BEV,2019,Vehicles,19000.0
+Belgium,EV sales,FCEV,2019,Vehicles,12.0
+Belgium,EV sales,BEV,2019,Vehicles,8800.0
+Belgium,EV stock,PHEV,2019,Vehicles,41000.0
+Belgium,EV sales,PHEV,2019,Vehicles,8900.0
+Belgium,EV stock,FCEV,2019,Vehicles,41.0
+Belgium,EV stock,FCEV,2020,Vehicles,64.0
+Belgium,EV sales,PHEV,2020,Vehicles,32000.0
+Belgium,EV stock,PHEV,2020,Vehicles,73000.0
+Belgium,EV sales,BEV,2020,Vehicles,15000.0
+Belgium,EV sales,FCEV,2020,Vehicles,4.0
+Belgium,EV stock,BEV,2020,Vehicles,32000.0
+Belgium,EV stock,BEV,2021,Vehicles,52000.0
+Belgium,EV sales,FCEV,2021,Vehicles,21.0
+Belgium,EV sales,BEV,2021,Vehicles,23000.0
+Belgium,EV stock,PHEV,2021,Vehicles,120000.0
+Belgium,EV sales,PHEV,2021,Vehicles,48000.0
+Belgium,EV stock,FCEV,2021,Vehicles,85.0
+Belgium,EV stock,FCEV,2022,Vehicles,80.0
+Belgium,EV sales,PHEV,2022,Vehicles,59000.0
+Belgium,EV stock,PHEV,2022,Vehicles,180000.0
+Belgium,EV sales,BEV,2022,Vehicles,38000.0
+Belgium,EV sales,FCEV,2022,Vehicles,20.0
+Belgium,EV stock,BEV,2022,Vehicles,90000.0
+Belgium,EV stock,BEV,2023,Vehicles,190000.0
+Belgium,EV sales,FCEV,2023,Vehicles,9.0
+Belgium,EV sales,BEV,2023,Vehicles,93000.0
+Belgium,EV stock,PHEV,2023,Vehicles,280000.0
+Belgium,EV sales,PHEV,2023,Vehicles,100000.0
+Belgium,EV stock,FCEV,2023,Vehicles,99.0
+Brazil,EV sales,BEV,2010,Vehicles,10.0
+Brazil,EV sales,BEV,2011,Vehicles,8.0
+Brazil,EV sales,BEV,2012,Vehicles,22.0
+Brazil,EV sales,PHEV,2012,Vehicles,18.0
+Brazil,EV sales,PHEV,2013,Vehicles,33.0
+Brazil,EV sales,BEV,2013,Vehicles,39.0
+Brazil,EV sales,BEV,2014,Vehicles,61.0
+Brazil,EV stock,BEV,2014,Vehicles,61.0
+Brazil,EV stock,BEV,2015,Vehicles,120.0
+Brazil,EV sales,PHEV,2015,Vehicles,28.0
+Brazil,EV sales,BEV,2015,Vehicles,61.0
+Brazil,EV stock,PHEV,2015,Vehicles,28.0
+Brazil,EV stock,PHEV,2016,Vehicles,75.0
+Brazil,EV sales,BEV,2016,Vehicles,130.0
+Brazil,EV sales,PHEV,2016,Vehicles,47.0
+Brazil,EV stock,BEV,2016,Vehicles,250.0
+Brazil,EV stock,BEV,2017,Vehicles,320.0
+Brazil,EV sales,PHEV,2017,Vehicles,290.0
+Brazil,EV sales,BEV,2017,Vehicles,140.0
+Brazil,EV stock,PHEV,2017,Vehicles,360.0
+Brazil,EV stock,PHEV,2018,Vehicles,700.0
+Brazil,EV sales,BEV,2018,Vehicles,180.0
+Brazil,EV sales,PHEV,2018,Vehicles,230.0
+Brazil,EV stock,BEV,2018,Vehicles,350.0
+Brazil,EV stock,BEV,2019,Vehicles,890.0
+Brazil,EV sales,PHEV,2019,Vehicles,1400.0
+Brazil,EV sales,BEV,2019,Vehicles,540.0
+Brazil,EV stock,PHEV,2019,Vehicles,2100.0
+Brazil,EV stock,PHEV,2020,Vehicles,3800.0
+Brazil,EV sales,BEV,2020,Vehicles,800.0
+Brazil,EV sales,PHEV,2020,Vehicles,1800.0
+Brazil,EV stock,BEV,2020,Vehicles,1600.0
+Brazil,EV stock,BEV,2021,Vehicles,4400.0
+Brazil,EV sales,FCEV,2021,Vehicles,1.0
+Brazil,EV stock,FCEV,2021,Vehicles,1.0
+Brazil,EV sales,PHEV,2021,Vehicles,11000.0
+Brazil,EV sales,BEV,2021,Vehicles,2900.0
+Brazil,EV stock,PHEV,2021,Vehicles,15000.0
+Brazil,EV stock,PHEV,2022,Vehicles,26000.0
+Brazil,EV sales,BEV,2022,Vehicles,8500.0
+Brazil,EV sales,PHEV,2022,Vehicles,10000.0
+Brazil,EV stock,FCEV,2022,Vehicles,3.0
+Brazil,EV sales,FCEV,2022,Vehicles,2.0
+Brazil,EV stock,BEV,2022,Vehicles,13000.0
+Brazil,EV stock,BEV,2023,Vehicles,33000.0
+Brazil,EV stock,FCEV,2023,Vehicles,3.0
+Brazil,EV sales,BEV,2023,Vehicles,19000.0
+Brazil,EV sales,PHEV,2023,Vehicles,33000.0
+Brazil,EV stock,PHEV,2023,Vehicles,59000.0
+Bulgaria,EV sales,BEV,2015,Vehicles,21.0
+Bulgaria,EV sales,PHEV,2016,Vehicles,8.0
+Bulgaria,EV sales,BEV,2016,Vehicles,5.0
+Bulgaria,EV sales,BEV,2017,Vehicles,68.0
+Bulgaria,EV sales,PHEV,2017,Vehicles,38.0
+Bulgaria,EV sales,PHEV,2018,Vehicles,26.0
+Bulgaria,EV sales,BEV,2018,Vehicles,190.0
+Bulgaria,EV sales,BEV,2019,Vehicles,180.0
+Bulgaria,EV sales,PHEV,2019,Vehicles,56.0
+Bulgaria,EV sales,PHEV,2020,Vehicles,41.0
+Bulgaria,EV sales,BEV,2020,Vehicles,140.0
+Bulgaria,EV sales,BEV,2021,Vehicles,430.0
+Bulgaria,EV sales,PHEV,2021,Vehicles,120.0
+Bulgaria,EV sales,PHEV,2022,Vehicles,140.0
+Bulgaria,EV sales,BEV,2022,Vehicles,1000.0
+Bulgaria,EV sales,BEV,2023,Vehicles,1800.0
+Bulgaria,EV sales,PHEV,2023,Vehicles,360.0
+Canada,EV stock,FCEV,2010,Vehicles,5.0
+Canada,EV stock,FCEV,2011,Vehicles,5.0
+Canada,EV sales,PHEV,2011,Vehicles,300.0
+Canada,EV stock,BEV,2011,Vehicles,250.0
+Canada,EV stock,PHEV,2011,Vehicles,300.0
+Canada,EV sales,BEV,2011,Vehicles,220.0
+Canada,EV sales,BEV,2012,Vehicles,620.0
+Canada,EV stock,PHEV,2012,Vehicles,1600.0
+Canada,EV stock,BEV,2012,Vehicles,830.0
+Canada,EV sales,PHEV,2012,Vehicles,1300.0
+Canada,EV stock,FCEV,2012,Vehicles,5.0
+Canada,EV stock,FCEV,2013,Vehicles,5.0
+Canada,EV sales,PHEV,2013,Vehicles,1500.0
+Canada,EV stock,BEV,2013,Vehicles,2400.0
+Canada,EV stock,PHEV,2013,Vehicles,3100.0
+Canada,EV sales,BEV,2013,Vehicles,1600.0
+Canada,EV sales,BEV,2014,Vehicles,2800.0
+Canada,EV stock,PHEV,2014,Vehicles,5300.0
+Canada,EV stock,BEV,2014,Vehicles,5400.0
+Canada,EV sales,PHEV,2014,Vehicles,2300.0
+Canada,EV stock,FCEV,2014,Vehicles,5.0
+Canada,EV stock,FCEV,2015,Vehicles,5.0
+Canada,EV sales,PHEV,2015,Vehicles,2400.0
+Canada,EV stock,BEV,2015,Vehicles,9900.0
+Canada,EV stock,PHEV,2015,Vehicles,7700.0
+Canada,EV sales,BEV,2015,Vehicles,4400.0
+Canada,EV sales,BEV,2016,Vehicles,5200.0
+Canada,EV stock,PHEV,2016,Vehicles,14000.0
+Canada,EV stock,BEV,2016,Vehicles,15000.0
+Canada,EV sales,PHEV,2016,Vehicles,6400.0
+Canada,EV stock,FCEV,2016,Vehicles,5.0
+Canada,EV stock,FCEV,2017,Vehicles,5.0
+Canada,EV sales,PHEV,2017,Vehicles,8000.0
+Canada,EV stock,BEV,2017,Vehicles,25000.0
+Canada,EV stock,PHEV,2017,Vehicles,22000.0
+Canada,EV sales,BEV,2017,Vehicles,8700.0
+Canada,EV sales,BEV,2018,Vehicles,23000.0
+Canada,EV stock,PHEV,2018,Vehicles,42000.0
+Canada,EV stock,BEV,2018,Vehicles,45000.0
+Canada,EV sales,PHEV,2018,Vehicles,21000.0
+Canada,EV stock,FCEV,2018,Vehicles,5.0
+Canada,EV stock,FCEV,2019,Vehicles,96.0
+Canada,EV sales,PHEV,2019,Vehicles,19000.0
+Canada,EV stock,BEV,2019,Vehicles,76000.0
+Canada,EV sales,FCEV,2019,Vehicles,79.0
+Canada,EV stock,PHEV,2019,Vehicles,60000.0
+Canada,EV sales,BEV,2019,Vehicles,32000.0
+Canada,EV stock,PHEV,2020,Vehicles,82000.0
+Canada,EV sales,FCEV,2020,Vehicles,16.0
+Canada,EV sales,BEV,2020,Vehicles,37000.0
+Canada,EV stock,BEV,2020,Vehicles,130000.0
+Canada,EV sales,PHEV,2020,Vehicles,14000.0
+Canada,EV stock,FCEV,2020,Vehicles,130.0
+Canada,EV stock,FCEV,2021,Vehicles,250.0
+Canada,EV sales,PHEV,2021,Vehicles,28000.0
+Canada,EV stock,BEV,2021,Vehicles,190000.0
+Canada,EV sales,BEV,2021,Vehicles,59000.0
+Canada,EV sales,FCEV,2021,Vehicles,130.0
+Canada,EV stock,PHEV,2021,Vehicles,110000.0
+Canada,EV stock,PHEV,2022,Vehicles,130000.0
+Canada,EV sales,FCEV,2022,Vehicles,19.0
+Canada,EV sales,BEV,2022,Vehicles,91000.0
+Canada,EV stock,BEV,2022,Vehicles,280000.0
+Canada,EV sales,PHEV,2022,Vehicles,24000.0
+Canada,EV stock,FCEV,2022,Vehicles,300.0
+Canada,EV stock,FCEV,2023,Vehicles,320.0
+Canada,EV sales,PHEV,2023,Vehicles,41000.0
+Canada,EV stock,BEV,2023,Vehicles,380000.0
+Canada,EV sales,BEV,2023,Vehicles,130000.0
+Canada,EV sales,FCEV,2023,Vehicles,13.0
+Canada,EV stock,PHEV,2023,Vehicles,170000.0
+Chile,EV sales,BEV,2011,Vehicles,6.0
+Chile,EV stock,BEV,2011,Vehicles,6.0
+Chile,EV stock,BEV,2012,Vehicles,11.0
+Chile,EV sales,BEV,2012,Vehicles,5.0
+Chile,EV sales,BEV,2013,Vehicles,5.0
+Chile,EV stock,BEV,2013,Vehicles,16.0
+Chile,EV sales,PHEV,2014,Vehicles,14.0
+Chile,EV stock,BEV,2014,Vehicles,19.0
+Chile,EV sales,BEV,2014,Vehicles,3.0
+Chile,EV stock,PHEV,2014,Vehicles,14.0
+Chile,EV stock,PHEV,2015,Vehicles,37.0
+Chile,EV sales,BEV,2015,Vehicles,10.0
+Chile,EV stock,BEV,2015,Vehicles,32.0
+Chile,EV sales,PHEV,2015,Vehicles,23.0
+Chile,EV sales,PHEV,2016,Vehicles,9.0
+Chile,EV stock,BEV,2016,Vehicles,54.0
+Chile,EV sales,BEV,2016,Vehicles,18.0
+Chile,EV stock,PHEV,2016,Vehicles,46.0
+Chile,EV stock,PHEV,2017,Vehicles,61.0
+Chile,EV sales,BEV,2017,Vehicles,120.0
+Chile,EV stock,BEV,2017,Vehicles,170.0
+Chile,EV sales,PHEV,2017,Vehicles,15.0
+Chile,EV sales,PHEV,2018,Vehicles,68.0
+Chile,EV stock,BEV,2018,Vehicles,280.0
+Chile,EV sales,BEV,2018,Vehicles,100.0
+Chile,EV stock,PHEV,2018,Vehicles,130.0
+Chile,EV stock,PHEV,2019,Vehicles,210.0
+Chile,EV sales,BEV,2019,Vehicles,160.0
+Chile,EV stock,BEV,2019,Vehicles,440.0
+Chile,EV sales,PHEV,2019,Vehicles,140.0
+Chile,EV sales,PHEV,2020,Vehicles,79.0
+Chile,EV stock,BEV,2020,Vehicles,550.0
+Chile,EV sales,BEV,2020,Vehicles,110.0
+Chile,EV stock,PHEV,2020,Vehicles,290.0
+Chile,EV stock,PHEV,2021,Vehicles,590.0
+Chile,EV sales,BEV,2021,Vehicles,270.0
+Chile,EV stock,BEV,2021,Vehicles,820.0
+Chile,EV sales,PHEV,2021,Vehicles,300.0
+Chile,EV sales,FCEV,2021,Vehicles,1.0
+Chile,EV stock,FCEV,2021,Vehicles,1.0
+Chile,EV stock,FCEV,2022,Vehicles,2.0
+Chile,EV sales,FCEV,2022,Vehicles,1.0
+Chile,EV sales,PHEV,2022,Vehicles,620.0
+Chile,EV stock,BEV,2022,Vehicles,1700.0
+Chile,EV sales,BEV,2022,Vehicles,880.0
+Chile,EV stock,PHEV,2022,Vehicles,1200.0
+Chile,EV stock,PHEV,2023,Vehicles,1800.0
+Chile,EV sales,BEV,2023,Vehicles,410.0
+Chile,EV stock,BEV,2023,Vehicles,2100.0
+Chile,EV sales,PHEV,2023,Vehicles,510.0
+Chile,EV stock,FCEV,2023,Vehicles,2.0
+China,EV sales,PHEV,2010,Vehicles,340.0
+China,EV sales,BEV,2010,Vehicles,1100.0
+China,EV stock,BEV,2010,Vehicles,1600.0
+China,EV stock,PHEV,2010,Vehicles,340.0
+China,EV stock,PHEV,2011,Vehicles,660.0
+China,EV stock,BEV,2011,Vehicles,6300.0
+China,EV sales,BEV,2011,Vehicles,4800.0
+China,EV sales,PHEV,2011,Vehicles,320.0
+China,EV sales,PHEV,2012,Vehicles,260.0
+China,EV sales,BEV,2012,Vehicles,9600.0
+China,EV stock,BEV,2012,Vehicles,16000.0
+China,EV stock,PHEV,2012,Vehicles,920.0
+China,EV stock,PHEV,2013,Vehicles,1600.0
+China,EV stock,BEV,2013,Vehicles,31000.0
+China,EV sales,BEV,2013,Vehicles,15000.0
+China,EV sales,PHEV,2013,Vehicles,730.0
+China,EV sales,PHEV,2014,Vehicles,24000.0
+China,EV sales,BEV,2014,Vehicles,49000.0
+China,EV stock,BEV,2014,Vehicles,59000.0
+China,EV stock,PHEV,2014,Vehicles,26000.0
+China,EV stock,PHEV,2015,Vehicles,87000.0
+China,EV stock,BEV,2015,Vehicles,210000.0
+China,EV sales,BEV,2015,Vehicles,150000.0
+China,EV sales,PHEV,2015,Vehicles,61000.0
+China,EV sales,PHEV,2016,Vehicles,79000.0
+China,EV sales,BEV,2016,Vehicles,260000.0
+China,EV stock,BEV,2016,Vehicles,460000.0
+China,EV stock,PHEV,2016,Vehicles,170000.0
+China,EV stock,PHEV,2017,Vehicles,280000.0
+China,EV stock,BEV,2017,Vehicles,930000.0
+China,EV sales,BEV,2017,Vehicles,470000.0
+China,EV sales,PHEV,2017,Vehicles,110000.0
+China,EV sales,PHEV,2018,Vehicles,270000.0
+China,EV sales,BEV,2018,Vehicles,820000.0
+China,EV stock,BEV,2018,Vehicles,1700000.0
+China,EV stock,PHEV,2018,Vehicles,540000.0
+China,EV stock,PHEV,2019,Vehicles,770000.0
+China,EV stock,BEV,2019,Vehicles,2600000.0
+China,EV sales,BEV,2019,Vehicles,830000.0
+China,EV sales,PHEV,2019,Vehicles,230000.0
+China,EV sales,PHEV,2020,Vehicles,220000.0
+China,EV sales,BEV,2020,Vehicles,920000.0
+China,EV stock,BEV,2020,Vehicles,3500000.0
+China,EV stock,PHEV,2020,Vehicles,990000.0
+China,EV stock,PHEV,2021,Vehicles,1600000.0
+China,EV stock,BEV,2021,Vehicles,6200000.0
+China,EV sales,BEV,2021,Vehicles,2700000.0
+China,EV sales,PHEV,2021,Vehicles,550000.0
+China,EV sales,FCEV,2021,Vehicles,19.0
+China,EV stock,FCEV,2021,Vehicles,19.0
+China,EV stock,FCEV,2022,Vehicles,240.0
+China,EV sales,FCEV,2022,Vehicles,240.0
+China,EV sales,PHEV,2022,Vehicles,1500000.0
+China,EV sales,BEV,2022,Vehicles,4400000.0
+China,EV stock,BEV,2022,Vehicles,11000000.0
+China,EV stock,PHEV,2022,Vehicles,3100000.0
+China,EV stock,PHEV,2023,Vehicles,5800000.0
+China,EV stock,BEV,2023,Vehicles,16000000.0
+China,EV sales,BEV,2023,Vehicles,5400000.0
+China,EV sales,PHEV,2023,Vehicles,2700000.0
+China,EV sales,FCEV,2023,Vehicles,520.0
+China,EV stock,FCEV,2023,Vehicles,760.0
+Colombia,EV sales,BEV,2015,Vehicles,39.0
+Colombia,EV sales,PHEV,2015,Vehicles,3.0
+Colombia,EV sales,PHEV,2016,Vehicles,25.0
+Colombia,EV sales,BEV,2016,Vehicles,28.0
+Colombia,EV sales,BEV,2017,Vehicles,92.0
+Colombia,EV sales,PHEV,2017,Vehicles,56.0
+Colombia,EV sales,BEV,2018,Vehicles,250.0
+Colombia,EV sales,PHEV,2018,Vehicles,320.0
+Colombia,EV sales,PHEV,2019,Vehicles,450.0
+Colombia,EV sales,BEV,2019,Vehicles,870.0
+Colombia,EV sales,BEV,2020,Vehicles,480.0
+Colombia,EV sales,PHEV,2020,Vehicles,470.0
+Colombia,EV sales,PHEV,2021,Vehicles,1700.0
+Colombia,EV sales,BEV,2021,Vehicles,840.0
+Colombia,EV sales,BEV,2022,Vehicles,1900.0
+Colombia,EV sales,PHEV,2022,Vehicles,2400.0
+Colombia,EV sales,PHEV,2023,Vehicles,2500.0
+Colombia,EV sales,BEV,2023,Vehicles,3600.0
+Costa Rica,EV sales,BEV,2015,Vehicles,4.0
+Costa Rica,EV stock,BEV,2015,Vehicles,140.0
+Costa Rica,EV stock,BEV,2016,Vehicles,160.0
+Costa Rica,EV sales,BEV,2016,Vehicles,12.0
+Costa Rica,EV sales,BEV,2017,Vehicles,25.0
+Costa Rica,EV stock,BEV,2017,Vehicles,180.0
+Costa Rica,EV stock,BEV,2018,Vehicles,380.0
+Costa Rica,EV sales,BEV,2018,Vehicles,200.0
+Costa Rica,EV sales,BEV,2019,Vehicles,460.0
+Costa Rica,EV stock,BEV,2019,Vehicles,840.0
+Costa Rica,EV stock,BEV,2020,Vehicles,1500.0
+Costa Rica,EV sales,BEV,2020,Vehicles,630.0
+Costa Rica,EV sales,BEV,2021,Vehicles,1000.0
+Costa Rica,EV stock,BEV,2021,Vehicles,2500.0
+Costa Rica,EV stock,BEV,2022,Vehicles,4100.0
+Costa Rica,EV sales,BEV,2022,Vehicles,1600.0
+Costa Rica,EV sales,BEV,2023,Vehicles,4900.0
+Costa Rica,EV stock,BEV,2023,Vehicles,9000.0
+Croatia,EV sales,PHEV,2019,Vehicles,67.0
+Croatia,EV sales,BEV,2019,Vehicles,190.0
+Croatia,EV sales,BEV,2020,Vehicles,530.0
+Croatia,EV sales,PHEV,2020,Vehicles,140.0
+Croatia,EV sales,PHEV,2021,Vehicles,400.0
+Croatia,EV sales,BEV,2021,Vehicles,1400.0
+Croatia,EV sales,BEV,2022,Vehicles,1400.0
+Croatia,EV sales,PHEV,2022,Vehicles,840.0
+Croatia,EV sales,PHEV,2023,Vehicles,990.0
+Croatia,EV sales,BEV,2023,Vehicles,1600.0
+Cyprus,EV sales,BEV,2019,Vehicles,23.0
+Cyprus,EV sales,PHEV,2020,Vehicles,83.0
+Cyprus,EV sales,BEV,2020,Vehicles,42.0
+Cyprus,EV sales,BEV,2021,Vehicles,84.0
+Cyprus,EV sales,PHEV,2021,Vehicles,98.0
+Cyprus,EV sales,PHEV,2022,Vehicles,230.0
+Cyprus,EV sales,BEV,2022,Vehicles,400.0
+Cyprus,EV sales,BEV,2023,Vehicles,790.0
+Cyprus,EV sales,PHEV,2023,Vehicles,510.0
+Czech Republic,EV sales,BEV,2015,Vehicles,300.0
+Czech Republic,EV sales,BEV,2016,Vehicles,200.0
+Czech Republic,EV sales,BEV,2017,Vehicles,390.0
+Czech Republic,EV sales,BEV,2018,Vehicles,700.0
+Czech Republic,EV sales,PHEV,2018,Vehicles,280.0
+Czech Republic,EV sales,PHEV,2019,Vehicles,470.0
+Czech Republic,EV sales,BEV,2019,Vehicles,760.0
+Czech Republic,EV sales,BEV,2020,Vehicles,3300.0
+Czech Republic,EV sales,PHEV,2020,Vehicles,2000.0
+Czech Republic,EV sales,PHEV,2021,Vehicles,3700.0
+Czech Republic,EV sales,BEV,2021,Vehicles,2700.0
+Czech Republic,EV sales,BEV,2022,Vehicles,3900.0
+Czech Republic,EV sales,PHEV,2022,Vehicles,3600.0
+Czech Republic,EV sales,PHEV,2023,Vehicles,5300.0
+Czech Republic,EV sales,BEV,2023,Vehicles,6700.0
+Denmark,EV stock,PHEV,2010,Vehicles,20.0
+Denmark,EV stock,BEV,2010,Vehicles,59.0
+Denmark,EV stock,BEV,2011,Vehicles,480.0
+Denmark,EV sales,BEV,2011,Vehicles,420.0
+Denmark,EV stock,PHEV,2011,Vehicles,20.0
+Denmark,EV sales,PHEV,2011,Vehicles,2.0
+Denmark,EV sales,PHEV,2012,Vehicles,12.0
+Denmark,EV stock,PHEV,2012,Vehicles,14.0
+Denmark,EV sales,BEV,2012,Vehicles,490.0
+Denmark,EV stock,BEV,2012,Vehicles,1200.0
+Denmark,EV stock,BEV,2013,Vehicles,1500.0
+Denmark,EV sales,FCEV,2013,Vehicles,15.0
+Denmark,EV sales,BEV,2013,Vehicles,500.0
+Denmark,EV stock,PHEV,2013,Vehicles,14.0
+Denmark,EV sales,PHEV,2013,Vehicles,10.0
+Denmark,EV sales,PHEV,2014,Vehicles,90.0
+Denmark,EV stock,PHEV,2014,Vehicles,100.0
+Denmark,EV sales,BEV,2014,Vehicles,1600.0
+Denmark,EV sales,FCEV,2014,Vehicles,1.0
+Denmark,EV stock,BEV,2014,Vehicles,2900.0
+Denmark,EV stock,BEV,2015,Vehicles,7900.0
+Denmark,EV sales,FCEV,2015,Vehicles,38.0
+Denmark,EV stock,FCEV,2015,Vehicles,37.0
+Denmark,EV sales,BEV,2015,Vehicles,4300.0
+Denmark,EV stock,PHEV,2015,Vehicles,570.0
+Denmark,EV sales,PHEV,2015,Vehicles,420.0
+Denmark,EV sales,PHEV,2016,Vehicles,570.0
+Denmark,EV stock,PHEV,2016,Vehicles,1100.0
+Denmark,EV sales,BEV,2016,Vehicles,1300.0
+Denmark,EV stock,FCEV,2016,Vehicles,68.0
+Denmark,EV sales,FCEV,2016,Vehicles,14.0
+Denmark,EV stock,BEV,2016,Vehicles,8700.0
+Denmark,EV stock,BEV,2017,Vehicles,8800.0
+Denmark,EV sales,FCEV,2017,Vehicles,15.0
+Denmark,EV stock,FCEV,2017,Vehicles,83.0
+Denmark,EV sales,BEV,2017,Vehicles,710.0
+Denmark,EV stock,PHEV,2017,Vehicles,1800.0
+Denmark,EV sales,PHEV,2017,Vehicles,620.0
+Denmark,EV sales,PHEV,2018,Vehicles,3100.0
+Denmark,EV stock,PHEV,2018,Vehicles,5200.0
+Denmark,EV sales,BEV,2018,Vehicles,1500.0
+Denmark,EV stock,FCEV,2018,Vehicles,88.0
+Denmark,EV sales,FCEV,2018,Vehicles,5.0
+Denmark,EV stock,BEV,2018,Vehicles,10000.0
+Denmark,EV stock,BEV,2019,Vehicles,16000.0
+Denmark,EV sales,FCEV,2019,Vehicles,8.0
+Denmark,EV stock,FCEV,2019,Vehicles,100.0
+Denmark,EV sales,BEV,2019,Vehicles,5500.0
+Denmark,EV stock,PHEV,2019,Vehicles,9900.0
+Denmark,EV sales,PHEV,2019,Vehicles,3900.0
+Denmark,EV sales,PHEV,2020,Vehicles,18000.0
+Denmark,EV stock,PHEV,2020,Vehicles,30000.0
+Denmark,EV sales,BEV,2020,Vehicles,14000.0
+Denmark,EV stock,FCEV,2020,Vehicles,150.0
+Denmark,EV sales,FCEV,2020,Vehicles,45.0
+Denmark,EV stock,BEV,2020,Vehicles,32000.0
+Denmark,EV stock,BEV,2021,Vehicles,67000.0
+Denmark,EV sales,FCEV,2021,Vehicles,78.0
+Denmark,EV stock,FCEV,2021,Vehicles,230.0
+Denmark,EV sales,BEV,2021,Vehicles,25000.0
+Denmark,EV stock,PHEV,2021,Vehicles,78000.0
+Denmark,EV sales,PHEV,2021,Vehicles,40000.0
+Denmark,EV sales,PHEV,2022,Vehicles,26000.0
+Denmark,EV stock,PHEV,2022,Vehicles,100000.0
+Denmark,EV sales,BEV,2022,Vehicles,31000.0
+Denmark,EV stock,FCEV,2022,Vehicles,230.0
+Denmark,EV sales,FCEV,2022,Vehicles,6.0
+Denmark,EV stock,BEV,2022,Vehicles,110000.0
+Denmark,EV stock,BEV,2023,Vehicles,200000.0
+Denmark,EV sales,FCEV,2023,Vehicles,1.0
+Denmark,EV sales,BEV,2023,Vehicles,63000.0
+Denmark,EV stock,PHEV,2023,Vehicles,110000.0
+Denmark,EV sales,PHEV,2023,Vehicles,17000.0
+Denmark,EV stock,FCEV,2023,Vehicles,230.0
+Estonia,EV sales,BEV,2015,Vehicles,34.0
+Estonia,EV sales,BEV,2016,Vehicles,35.0
+Estonia,EV sales,BEV,2017,Vehicles,26.0
+Estonia,EV sales,PHEV,2017,Vehicles,20.0
+Estonia,EV sales,PHEV,2018,Vehicles,33.0
+Estonia,EV sales,BEV,2018,Vehicles,85.0
+Estonia,EV sales,BEV,2019,Vehicles,80.0
+Estonia,EV sales,PHEV,2019,Vehicles,17.0
+Estonia,EV sales,PHEV,2020,Vehicles,75.0
+Estonia,EV sales,BEV,2020,Vehicles,340.0
+Estonia,EV sales,BEV,2021,Vehicles,480.0
+Estonia,EV sales,PHEV,2021,Vehicles,240.0
+Estonia,EV sales,PHEV,2022,Vehicles,430.0
+Estonia,EV sales,BEV,2022,Vehicles,730.0
+Estonia,EV sales,BEV,2023,Vehicles,1400.0
+Estonia,EV sales,PHEV,2023,Vehicles,560.0
+EU27,EV sales,BEV,2010,Vehicles,1100.0
+EU27,EV stock,BEV,2010,Vehicles,4900.0
+EU27,EV sales,FCEV,2010,Vehicles,16.0
+EU27,EV stock,FCEV,2010,Vehicles,20.0
+EU27,EV sales,PHEV,2010,Vehicles,91.0
+EU27,EV stock,PHEV,2010,Vehicles,40.0
+EU27,EV stock,PHEV,2011,Vehicles,430.0
+EU27,EV sales,PHEV,2011,Vehicles,360.0
+EU27,EV stock,FCEV,2011,Vehicles,58.0
+EU27,EV sales,FCEV,2011,Vehicles,38.0
+EU27,EV stock,BEV,2011,Vehicles,12000.0
+EU27,EV sales,BEV,2011,Vehicles,7100.0
+EU27,EV sales,BEV,2012,Vehicles,12000.0
+EU27,EV stock,BEV,2012,Vehicles,23000.0
+EU27,EV sales,FCEV,2012,Vehicles,29.0
+EU27,EV stock,FCEV,2012,Vehicles,87.0
+EU27,EV sales,PHEV,2012,Vehicles,7500.0
+EU27,EV stock,PHEV,2012,Vehicles,7900.0
+EU27,EV stock,PHEV,2013,Vehicles,33000.0
+EU27,EV sales,PHEV,2013,Vehicles,24000.0
+EU27,EV stock,FCEV,2013,Vehicles,110.0
+EU27,EV sales,FCEV,2013,Vehicles,42.0
+EU27,EV stock,BEV,2013,Vehicles,44000.0
+EU27,EV sales,BEV,2013,Vehicles,21000.0
+EU27,EV sales,BEV,2014,Vehicles,33000.0
+EU27,EV stock,BEV,2014,Vehicles,75000.0
+EU27,EV sales,FCEV,2014,Vehicles,28.0
+EU27,EV stock,FCEV,2014,Vehicles,140.0
+EU27,EV sales,PHEV,2014,Vehicles,24000.0
+EU27,EV stock,PHEV,2014,Vehicles,57000.0
+EU27,EV stock,PHEV,2015,Vehicles,130000.0
+EU27,EV sales,PHEV,2015,Vehicles,70000.0
+EU27,EV stock,FCEV,2015,Vehicles,310.0
+EU27,EV sales,FCEV,2015,Vehicles,160.0
+EU27,EV stock,BEV,2015,Vehicles,120000.0
+EU27,EV sales,BEV,2015,Vehicles,49000.0
+EU27,EV sales,BEV,2016,Vehicles,54000.0
+EU27,EV stock,BEV,2016,Vehicles,170000.0
+EU27,EV sales,FCEV,2016,Vehicles,130.0
+EU27,EV stock,FCEV,2016,Vehicles,460.0
+EU27,EV sales,PHEV,2016,Vehicles,65000.0
+EU27,EV stock,PHEV,2016,Vehicles,190000.0
+EU27,EV stock,PHEV,2017,Vehicles,290000.0
+EU27,EV sales,PHEV,2017,Vehicles,89000.0
+EU27,EV stock,FCEV,2017,Vehicles,750.0
+EU27,EV sales,FCEV,2017,Vehicles,270.0
+EU27,EV stock,BEV,2017,Vehicles,250000.0
+EU27,EV sales,BEV,2017,Vehicles,85000.0
+EU27,EV sales,BEV,2018,Vehicles,140000.0
+EU27,EV stock,BEV,2018,Vehicles,370000.0
+EU27,EV sales,FCEV,2018,Vehicles,160.0
+EU27,EV stock,FCEV,2018,Vehicles,750.0
+EU27,EV sales,PHEV,2018,Vehicles,110000.0
+EU27,EV stock,PHEV,2018,Vehicles,390000.0
+EU27,EV stock,PHEV,2019,Vehicles,500000.0
+EU27,EV sales,PHEV,2019,Vehicles,140000.0
+EU27,EV stock,FCEV,2019,Vehicles,1200.0
+EU27,EV sales,FCEV,2019,Vehicles,480.0
+EU27,EV stock,BEV,2019,Vehicles,610000.0
+EU27,EV sales,BEV,2019,Vehicles,250000.0
+EU27,EV sales,BEV,2020,Vehicles,540000.0
+EU27,EV stock,BEV,2020,Vehicles,1100000.0
+EU27,EV sales,FCEV,2020,Vehicles,660.0
+EU27,EV stock,FCEV,2020,Vehicles,1900.0
+EU27,EV sales,PHEV,2020,Vehicles,510000.0
+EU27,EV stock,PHEV,2020,Vehicles,990000.0
+EU27,EV stock,PHEV,2021,Vehicles,1900000.0
+EU27,EV sales,PHEV,2021,Vehicles,880000.0
+EU27,EV stock,FCEV,2021,Vehicles,2700.0
+EU27,EV sales,FCEV,2021,Vehicles,860.0
+EU27,EV stock,BEV,2021,Vehicles,2000000.0
+EU27,EV sales,BEV,2021,Vehicles,890000.0
+EU27,EV sales,BEV,2022,Vehicles,1200000.0
+EU27,EV stock,BEV,2022,Vehicles,3000000.0
+EU27,EV sales,FCEV,2022,Vehicles,1200.0
+EU27,EV stock,FCEV,2022,Vehicles,4000.0
+EU27,EV sales,PHEV,2022,Vehicles,900000.0
+EU27,EV stock,PHEV,2022,Vehicles,2600000.0
+EU27,EV stock,PHEV,2023,Vehicles,3500000.0
+EU27,EV sales,PHEV,2023,Vehicles,850000.0
+EU27,EV stock,FCEV,2023,Vehicles,4700.0
+EU27,EV sales,FCEV,2023,Vehicles,770.0
+EU27,EV stock,BEV,2023,Vehicles,4600000.0
+EU27,EV sales,BEV,2023,Vehicles,1600000.0
+Europe,EV sales,PHEV,2010,Vehicles,110.0
+Europe,EV stock,PHEV,2010,Vehicles,63.0
+Europe,EV sales,BEV,2010,Vehicles,1700.0
+Europe,EV stock,BEV,2010,Vehicles,9800.0
+Europe,EV sales,FCEV,2010,Vehicles,27.0
+Europe,EV stock,FCEV,2010,Vehicles,40.0
+Europe,EV stock,FCEV,2011,Vehicles,78.0
+Europe,EV sales,FCEV,2011,Vehicles,38.0
+Europe,EV stock,BEV,2011,Vehicles,20000.0
+Europe,EV sales,BEV,2011,Vehicles,11000.0
+Europe,EV sales,PHEV,2011,Vehicles,410.0
+Europe,EV stock,PHEV,2011,Vehicles,510.0
+Europe,EV stock,PHEV,2012,Vehicles,9700.0
+Europe,EV sales,PHEV,2012,Vehicles,9200.0
+Europe,EV sales,BEV,2012,Vehicles,19000.0
+Europe,EV stock,BEV,2012,Vehicles,37000.0
+Europe,EV sales,FCEV,2012,Vehicles,29.0
+Europe,EV stock,FCEV,2012,Vehicles,110.0
+Europe,EV stock,FCEV,2013,Vehicles,130.0
+Europe,EV sales,FCEV,2013,Vehicles,42.0
+Europe,EV stock,BEV,2013,Vehicles,68000.0
+Europe,EV sales,BEV,2013,Vehicles,33000.0
+Europe,EV sales,PHEV,2013,Vehicles,26000.0
+Europe,EV stock,PHEV,2013,Vehicles,36000.0
+Europe,EV stock,PHEV,2014,Vehicles,70000.0
+Europe,EV sales,PHEV,2014,Vehicles,34000.0
+Europe,EV sales,BEV,2014,Vehicles,62000.0
+Europe,EV stock,BEV,2014,Vehicles,130000.0
+Europe,EV sales,FCEV,2014,Vehicles,32.0
+Europe,EV stock,FCEV,2014,Vehicles,150.0
+Europe,EV stock,FCEV,2015,Vehicles,340.0
+Europe,EV sales,FCEV,2015,Vehicles,190.0
+Europe,EV stock,BEV,2015,Vehicles,210000.0
+Europe,EV sales,BEV,2015,Vehicles,89000.0
+Europe,EV sales,PHEV,2015,Vehicles,100000.0
+Europe,EV stock,PHEV,2015,Vehicles,170000.0
+Europe,EV stock,PHEV,2016,Vehicles,290000.0
+Europe,EV sales,PHEV,2016,Vehicles,120000.0
+Europe,EV sales,BEV,2016,Vehicles,93000.0
+Europe,EV stock,BEV,2016,Vehicles,300000.0
+Europe,EV sales,FCEV,2016,Vehicles,180.0
+Europe,EV stock,FCEV,2016,Vehicles,540.0
+Europe,EV stock,FCEV,2017,Vehicles,890.0
+Europe,EV sales,FCEV,2017,Vehicles,340.0
+Europe,EV stock,BEV,2017,Vehicles,430000.0
+Europe,EV sales,BEV,2017,Vehicles,140000.0
+Europe,EV sales,PHEV,2017,Vehicles,160000.0
+Europe,EV stock,PHEV,2017,Vehicles,450000.0
+Europe,EV stock,PHEV,2018,Vehicles,630000.0
+Europe,EV sales,PHEV,2018,Vehicles,190000.0
+Europe,EV sales,BEV,2018,Vehicles,210000.0
+Europe,EV stock,BEV,2018,Vehicles,620000.0
+Europe,EV sales,FCEV,2018,Vehicles,280.0
+Europe,EV stock,FCEV,2018,Vehicles,1000.0
+Europe,EV stock,FCEV,2019,Vehicles,1700.0
+Europe,EV sales,FCEV,2019,Vehicles,610.0
+Europe,EV stock,BEV,2019,Vehicles,970000.0
+Europe,EV sales,BEV,2019,Vehicles,370000.0
+Europe,EV sales,PHEV,2019,Vehicles,210000.0
+Europe,EV stock,PHEV,2019,Vehicles,800000.0
+Europe,EV stock,PHEV,2020,Vehicles,1400000.0
+Europe,EV sales,PHEV,2020,Vehicles,640000.0
+Europe,EV sales,BEV,2020,Vehicles,760000.0
+Europe,EV stock,BEV,2020,Vehicles,1700000.0
+Europe,EV sales,FCEV,2020,Vehicles,740.0
+Europe,EV stock,FCEV,2020,Vehicles,2400.0
+Europe,EV stock,FCEV,2021,Vehicles,3400.0
+Europe,EV sales,FCEV,2021,Vehicles,960.0
+Europe,EV stock,BEV,2021,Vehicles,2900000.0
+Europe,EV sales,BEV,2021,Vehicles,1200000.0
+Europe,EV sales,PHEV,2021,Vehicles,1100000.0
+Europe,EV stock,PHEV,2021,Vehicles,2500000.0
+Europe,EV stock,PHEV,2022,Vehicles,3400000.0
+Europe,EV sales,PHEV,2022,Vehicles,1100000.0
+Europe,EV sales,BEV,2022,Vehicles,1600000.0
+Europe,EV stock,BEV,2022,Vehicles,4400000.0
+Europe,EV sales,FCEV,2022,Vehicles,1300.0
+Europe,EV stock,FCEV,2022,Vehicles,4700.0
+Europe,EV stock,FCEV,2023,Vehicles,5500.0
+Europe,EV sales,FCEV,2023,Vehicles,820.0
+Europe,EV stock,BEV,2023,Vehicles,6700000.0
+Europe,EV sales,BEV,2023,Vehicles,2200000.0
+Europe,EV sales,PHEV,2023,Vehicles,1100000.0
+Europe,EV stock,PHEV,2023,Vehicles,4500000.0
+Finland,EV stock,BEV,2011,Vehicles,56.0
+Finland,EV sales,BEV,2011,Vehicles,30.0
+Finland,EV sales,BEV,2012,Vehicles,51.0
+Finland,EV stock,BEV,2012,Vehicles,110.0
+Finland,EV sales,PHEV,2012,Vehicles,130.0
+Finland,EV stock,PHEV,2012,Vehicles,130.0
+Finland,EV stock,PHEV,2013,Vehicles,300.0
+Finland,EV sales,PHEV,2013,Vehicles,170.0
+Finland,EV stock,BEV,2013,Vehicles,170.0
+Finland,EV sales,BEV,2013,Vehicles,50.0
+Finland,EV sales,BEV,2014,Vehicles,180.0
+Finland,EV stock,BEV,2014,Vehicles,360.0
+Finland,EV sales,PHEV,2014,Vehicles,260.0
+Finland,EV stock,PHEV,2014,Vehicles,570.0
+Finland,EV stock,PHEV,2015,Vehicles,970.0
+Finland,EV sales,PHEV,2015,Vehicles,420.0
+Finland,EV stock,BEV,2015,Vehicles,610.0
+Finland,EV sales,BEV,2015,Vehicles,240.0
+Finland,EV sales,BEV,2016,Vehicles,220.0
+Finland,EV stock,BEV,2016,Vehicles,840.0
+Finland,EV sales,PHEV,2016,Vehicles,1200.0
+Finland,EV stock,PHEV,2016,Vehicles,2400.0
+Finland,EV stock,PHEV,2017,Vehicles,5700.0
+Finland,EV sales,PHEV,2017,Vehicles,2600.0
+Finland,EV stock,BEV,2017,Vehicles,1400.0
+Finland,EV sales,BEV,2017,Vehicles,500.0
+Finland,EV sales,BEV,2018,Vehicles,780.0
+Finland,EV stock,BEV,2018,Vehicles,2400.0
+Finland,EV sales,PHEV,2018,Vehicles,4900.0
+Finland,EV stock,PHEV,2018,Vehicles,13000.0
+Finland,EV stock,PHEV,2019,Vehicles,25000.0
+Finland,EV sales,PHEV,2019,Vehicles,6000.0
+Finland,EV stock,BEV,2019,Vehicles,4700.0
+Finland,EV stock,FCEV,2019,Vehicles,1.0
+Finland,EV sales,BEV,2019,Vehicles,1900.0
+Finland,EV sales,BEV,2020,Vehicles,4200.0
+Finland,EV stock,FCEV,2020,Vehicles,1.0
+Finland,EV stock,BEV,2020,Vehicles,9700.0
+Finland,EV sales,PHEV,2020,Vehicles,13000.0
+Finland,EV stock,PHEV,2020,Vehicles,46000.0
+Finland,EV stock,PHEV,2021,Vehicles,77000.0
+Finland,EV sales,FCEV,2021,Vehicles,1.0
+Finland,EV sales,PHEV,2021,Vehicles,20000.0
+Finland,EV stock,BEV,2021,Vehicles,23000.0
+Finland,EV stock,FCEV,2021,Vehicles,1.0
+Finland,EV sales,BEV,2021,Vehicles,10000.0
+Finland,EV sales,BEV,2022,Vehicles,15000.0
+Finland,EV stock,FCEV,2022,Vehicles,2.0
+Finland,EV stock,BEV,2022,Vehicles,45000.0
+Finland,EV sales,PHEV,2022,Vehicles,16000.0
+Finland,EV stock,PHEV,2022,Vehicles,100000.0
+Finland,EV stock,PHEV,2023,Vehicles,140000.0
+Finland,EV sales,PHEV,2023,Vehicles,18000.0
+Finland,EV stock,BEV,2023,Vehicles,84000.0
+Finland,EV stock,FCEV,2023,Vehicles,2.0
+Finland,EV sales,BEV,2023,Vehicles,30000.0
+France,EV sales,BEV,2010,Vehicles,190.0
+France,EV stock,BEV,2010,Vehicles,300.0
+France,EV sales,PHEV,2010,Vehicles,82.0
+France,EV sales,PHEV,2011,Vehicles,56.0
+France,EV stock,PHEV,2011,Vehicles,96.0
+France,EV stock,BEV,2011,Vehicles,2900.0
+France,EV sales,BEV,2011,Vehicles,2600.0
+France,EV sales,BEV,2012,Vehicles,5700.0
+France,EV stock,BEV,2012,Vehicles,8600.0
+France,EV stock,PHEV,2012,Vehicles,700.0
+France,EV sales,PHEV,2012,Vehicles,660.0
+France,EV stock,FCEV,2013,Vehicles,1.0
+France,EV sales,PHEV,2013,Vehicles,850.0
+France,EV stock,PHEV,2013,Vehicles,1500.0
+France,EV stock,BEV,2013,Vehicles,17000.0
+France,EV sales,FCEV,2013,Vehicles,1.0
+France,EV sales,BEV,2013,Vehicles,8900.0
+France,EV sales,BEV,2014,Vehicles,11000.0
+France,EV sales,FCEV,2014,Vehicles,1.0
+France,EV stock,BEV,2014,Vehicles,28000.0
+France,EV stock,PHEV,2014,Vehicles,3600.0
+France,EV sales,PHEV,2014,Vehicles,2100.0
+France,EV stock,FCEV,2014,Vehicles,2.0
+France,EV stock,FCEV,2015,Vehicles,12.0
+France,EV sales,PHEV,2015,Vehicles,5800.0
+France,EV stock,PHEV,2015,Vehicles,9300.0
+France,EV stock,BEV,2015,Vehicles,45000.0
+France,EV sales,FCEV,2015,Vehicles,10.0
+France,EV sales,BEV,2015,Vehicles,18000.0
+France,EV sales,BEV,2016,Vehicles,23000.0
+France,EV sales,FCEV,2016,Vehicles,34.0
+France,EV stock,BEV,2016,Vehicles,67000.0
+France,EV stock,PHEV,2016,Vehicles,17000.0
+France,EV sales,PHEV,2016,Vehicles,7600.0
+France,EV stock,FCEV,2016,Vehicles,46.0
+France,EV stock,FCEV,2017,Vehicles,92.0
+France,EV sales,PHEV,2017,Vehicles,12000.0
+France,EV stock,PHEV,2017,Vehicles,54000.0
+France,EV stock,BEV,2017,Vehicles,93000.0
+France,EV sales,FCEV,2017,Vehicles,46.0
+France,EV sales,BEV,2017,Vehicles,26000.0
+France,EV sales,BEV,2018,Vehicles,33000.0
+France,EV sales,FCEV,2018,Vehicles,10.0
+France,EV stock,BEV,2018,Vehicles,120000.0
+France,EV stock,PHEV,2018,Vehicles,68000.0
+France,EV sales,PHEV,2018,Vehicles,15000.0
+France,EV stock,FCEV,2018,Vehicles,100.0
+France,EV stock,FCEV,2019,Vehicles,170.0
+France,EV sales,PHEV,2019,Vehicles,19000.0
+France,EV stock,PHEV,2019,Vehicles,85000.0
+France,EV stock,BEV,2019,Vehicles,170000.0
+France,EV sales,FCEV,2019,Vehicles,60.0
+France,EV sales,BEV,2019,Vehicles,45000.0
+France,EV sales,BEV,2020,Vehicles,110000.0
+France,EV stock,BEV,2020,Vehicles,280000.0
+France,EV stock,PHEV,2020,Vehicles,160000.0
+France,EV sales,PHEV,2020,Vehicles,75000.0
+France,EV stock,FCEV,2020,Vehicles,380.0
+France,EV sales,FCEV,2020,Vehicles,210.0
+France,EV sales,FCEV,2021,Vehicles,14.0
+France,EV stock,FCEV,2021,Vehicles,400.0
+France,EV sales,PHEV,2021,Vehicles,140000.0
+France,EV stock,PHEV,2021,Vehicles,300000.0
+France,EV stock,BEV,2021,Vehicles,440000.0
+France,EV sales,BEV,2021,Vehicles,170000.0
+France,EV sales,BEV,2022,Vehicles,210000.0
+France,EV stock,BEV,2022,Vehicles,620000.0
+France,EV stock,PHEV,2022,Vehicles,430000.0
+France,EV sales,PHEV,2022,Vehicles,130000.0
+France,EV stock,FCEV,2022,Vehicles,590.0
+France,EV sales,FCEV,2022,Vehicles,200.0
+France,EV sales,FCEV,2023,Vehicles,310.0
+France,EV stock,FCEV,2023,Vehicles,890.0
+France,EV sales,PHEV,2023,Vehicles,160000.0
+France,EV stock,PHEV,2023,Vehicles,590000.0
+France,EV stock,BEV,2023,Vehicles,980000.0
+France,EV sales,BEV,2023,Vehicles,310000.0
+Germany,EV sales,BEV,2010,Vehicles,140.0
+Germany,EV stock,BEV,2010,Vehicles,250.0
+Germany,EV sales,FCEV,2010,Vehicles,16.0
+Germany,EV stock,FCEV,2010,Vehicles,19.0
+Germany,EV stock,FCEV,2011,Vehicles,57.0
+Germany,EV sales,FCEV,2011,Vehicles,38.0
+Germany,EV stock,BEV,2011,Vehicles,1600.0
+Germany,EV sales,BEV,2011,Vehicles,1400.0
+Germany,EV sales,PHEV,2011,Vehicles,240.0
+Germany,EV stock,PHEV,2011,Vehicles,240.0
+Germany,EV stock,PHEV,2012,Vehicles,1400.0
+Germany,EV sales,PHEV,2012,Vehicles,1200.0
+Germany,EV sales,BEV,2012,Vehicles,2200.0
+Germany,EV stock,BEV,2012,Vehicles,3900.0
+Germany,EV sales,FCEV,2012,Vehicles,29.0
+Germany,EV stock,FCEV,2012,Vehicles,86.0
+Germany,EV stock,FCEV,2013,Vehicles,110.0
+Germany,EV sales,FCEV,2013,Vehicles,23.0
+Germany,EV stock,BEV,2013,Vehicles,9200.0
+Germany,EV sales,BEV,2013,Vehicles,5200.0
+Germany,EV sales,PHEV,2013,Vehicles,1600.0
+Germany,EV stock,PHEV,2013,Vehicles,3000.0
+Germany,EV stock,PHEV,2014,Vehicles,7400.0
+Germany,EV sales,PHEV,2014,Vehicles,4400.0
+Germany,EV sales,BEV,2014,Vehicles,9100.0
+Germany,EV stock,BEV,2014,Vehicles,18000.0
+Germany,EV sales,FCEV,2014,Vehicles,8.0
+Germany,EV stock,FCEV,2014,Vehicles,120.0
+Germany,EV stock,FCEV,2015,Vehicles,180.0
+Germany,EV sales,FCEV,2015,Vehicles,63.0
+Germany,EV stock,BEV,2015,Vehicles,26000.0
+Germany,EV sales,BEV,2015,Vehicles,12000.0
+Germany,EV sales,PHEV,2015,Vehicles,11000.0
+Germany,EV stock,PHEV,2015,Vehicles,19000.0
+Germany,EV stock,PHEV,2016,Vehicles,32000.0
+Germany,EV sales,PHEV,2016,Vehicles,13000.0
+Germany,EV sales,BEV,2016,Vehicles,11000.0
+Germany,EV stock,BEV,2016,Vehicles,34000.0
+Germany,EV stock,FCEV,2016,Vehicles,180.0
+Germany,EV stock,FCEV,2017,Vehicles,260.0
+Germany,EV sales,FCEV,2017,Vehicles,82.0
+Germany,EV stock,BEV,2017,Vehicles,54000.0
+Germany,EV sales,BEV,2017,Vehicles,25000.0
+Germany,EV sales,PHEV,2017,Vehicles,29000.0
+Germany,EV stock,PHEV,2017,Vehicles,50000.0
+Germany,EV stock,PHEV,2018,Vehicles,82000.0
+Germany,EV sales,PHEV,2018,Vehicles,31000.0
+Germany,EV sales,BEV,2018,Vehicles,36000.0
+Germany,EV stock,BEV,2018,Vehicles,83000.0
+Germany,EV sales,FCEV,2018,Vehicles,110.0
+Germany,EV stock,FCEV,2018,Vehicles,370.0
+Germany,EV stock,FCEV,2019,Vehicles,540.0
+Germany,EV sales,FCEV,2019,Vehicles,200.0
+Germany,EV stock,BEV,2019,Vehicles,140000.0
+Germany,EV sales,BEV,2019,Vehicles,63000.0
+Germany,EV sales,PHEV,2019,Vehicles,45000.0
+Germany,EV stock,PHEV,2019,Vehicles,100000.0
+Germany,EV stock,PHEV,2020,Vehicles,300000.0
+Germany,EV sales,PHEV,2020,Vehicles,200000.0
+Germany,EV sales,BEV,2020,Vehicles,190000.0
+Germany,EV stock,BEV,2020,Vehicles,310000.0
+Germany,EV sales,FCEV,2020,Vehicles,200.0
+Germany,EV stock,FCEV,2020,Vehicles,740.0
+Germany,EV stock,FCEV,2021,Vehicles,1200.0
+Germany,EV sales,FCEV,2021,Vehicles,460.0
+Germany,EV stock,BEV,2021,Vehicles,620000.0
+Germany,EV sales,BEV,2021,Vehicles,360000.0
+Germany,EV sales,PHEV,2021,Vehicles,330000.0
+Germany,EV stock,PHEV,2021,Vehicles,630000.0
+Germany,EV stock,PHEV,2022,Vehicles,860000.0
+Germany,EV sales,PHEV,2022,Vehicles,360000.0
+Germany,EV sales,BEV,2022,Vehicles,470000.0
+Germany,EV stock,BEV,2022,Vehicles,1000000.0
+Germany,EV sales,FCEV,2022,Vehicles,840.0
+Germany,EV stock,FCEV,2022,Vehicles,2100.0
+Germany,EV stock,FCEV,2023,Vehicles,2400.0
+Germany,EV sales,FCEV,2023,Vehicles,260.0
+Germany,EV stock,BEV,2023,Vehicles,1500000.0
+Germany,EV sales,BEV,2023,Vehicles,520000.0
+Germany,EV stock,PHEV,2023,Vehicles,1000000.0
+Germany,EV sales,PHEV,2023,Vehicles,180000.0
+Greece,EV sales,BEV,2013,Vehicles,3.0
+Greece,EV stock,BEV,2013,Vehicles,3.0
+Greece,EV stock,BEV,2014,Vehicles,42.0
+Greece,EV sales,BEV,2014,Vehicles,39.0
+Greece,EV sales,BEV,2015,Vehicles,35.0
+Greece,EV stock,BEV,2015,Vehicles,97.0
+Greece,EV sales,PHEV,2015,Vehicles,22.0
+Greece,EV stock,PHEV,2015,Vehicles,22.0
+Greece,EV stock,PHEV,2016,Vehicles,78.0
+Greece,EV sales,PHEV,2016,Vehicles,56.0
+Greece,EV stock,BEV,2016,Vehicles,140.0
+Greece,EV sales,BEV,2016,Vehicles,41.0
+Greece,EV sales,BEV,2017,Vehicles,50.0
+Greece,EV stock,BEV,2017,Vehicles,190.0
+Greece,EV sales,PHEV,2017,Vehicles,140.0
+Greece,EV stock,PHEV,2017,Vehicles,220.0
+Greece,EV stock,PHEV,2018,Vehicles,440.0
+Greece,EV sales,PHEV,2018,Vehicles,210.0
+Greece,EV stock,BEV,2018,Vehicles,280.0
+Greece,EV sales,BEV,2018,Vehicles,88.0
+Greece,EV sales,BEV,2019,Vehicles,190.0
+Greece,EV stock,BEV,2019,Vehicles,470.0
+Greece,EV sales,PHEV,2019,Vehicles,290.0
+Greece,EV stock,PHEV,2019,Vehicles,730.0
+Greece,EV stock,PHEV,2020,Vehicles,2200.0
+Greece,EV sales,PHEV,2020,Vehicles,1500.0
+Greece,EV stock,BEV,2020,Vehicles,1100.0
+Greece,EV sales,BEV,2020,Vehicles,680.0
+Greece,EV sales,BEV,2021,Vehicles,2200.0
+Greece,EV stock,BEV,2021,Vehicles,3300.0
+Greece,EV sales,PHEV,2021,Vehicles,4800.0
+Greece,EV stock,PHEV,2021,Vehicles,7000.0
+Greece,EV stock,PHEV,2022,Vehicles,12000.0
+Greece,EV sales,PHEV,2022,Vehicles,5500.0
+Greece,EV stock,BEV,2022,Vehicles,7400.0
+Greece,EV sales,BEV,2022,Vehicles,2800.0
+Greece,EV sales,BEV,2023,Vehicles,7000.0
+Greece,EV stock,BEV,2023,Vehicles,13000.0
+Greece,EV sales,PHEV,2023,Vehicles,10000.0
+Greece,EV stock,PHEV,2023,Vehicles,21000.0
+Hungary,EV sales,PHEV,2015,Vehicles,15.0
+Hungary,EV sales,BEV,2015,Vehicles,120.0
+Hungary,EV sales,BEV,2016,Vehicles,170.0
+Hungary,EV sales,PHEV,2016,Vehicles,170.0
+Hungary,EV sales,PHEV,2017,Vehicles,440.0
+Hungary,EV sales,BEV,2017,Vehicles,750.0
+Hungary,EV sales,BEV,2018,Vehicles,1300.0
+Hungary,EV sales,PHEV,2018,Vehicles,770.0
+Hungary,EV sales,PHEV,2019,Vehicles,1100.0
+Hungary,EV sales,BEV,2019,Vehicles,1800.0
+Hungary,EV sales,BEV,2020,Vehicles,3000.0
+Hungary,EV sales,PHEV,2020,Vehicles,3000.0
+Hungary,EV sales,PHEV,2021,Vehicles,4200.0
+Hungary,EV sales,BEV,2021,Vehicles,4300.0
+Hungary,EV sales,BEV,2022,Vehicles,4700.0
+Hungary,EV sales,PHEV,2022,Vehicles,4900.0
+Hungary,EV sales,PHEV,2023,Vehicles,5500.0
+Hungary,EV sales,BEV,2023,Vehicles,5800.0
+Iceland,EV stock,BEV,2010,Vehicles,14.0
+Iceland,EV sales,FCEV,2010,Vehicles,11.0
+Iceland,EV stock,FCEV,2010,Vehicles,20.0
+Iceland,EV stock,FCEV,2011,Vehicles,20.0
+Iceland,EV stock,BEV,2011,Vehicles,14.0
+Iceland,EV stock,BEV,2012,Vehicles,31.0
+Iceland,EV stock,FCEV,2012,Vehicles,20.0
+Iceland,EV sales,PHEV,2012,Vehicles,9.0
+Iceland,EV sales,BEV,2012,Vehicles,17.0
+Iceland,EV stock,PHEV,2012,Vehicles,9.0
+Iceland,EV stock,PHEV,2013,Vehicles,32.0
+Iceland,EV sales,BEV,2013,Vehicles,80.0
+Iceland,EV sales,PHEV,2013,Vehicles,23.0
+Iceland,EV stock,FCEV,2013,Vehicles,18.0
+Iceland,EV stock,BEV,2013,Vehicles,110.0
+Iceland,EV stock,BEV,2014,Vehicles,240.0
+Iceland,EV stock,FCEV,2014,Vehicles,3.0
+Iceland,EV sales,PHEV,2014,Vehicles,29.0
+Iceland,EV sales,BEV,2014,Vehicles,200.0
+Iceland,EV stock,PHEV,2014,Vehicles,52.0
+Iceland,EV stock,PHEV,2015,Vehicles,140.0
+Iceland,EV sales,BEV,2015,Vehicles,390.0
+Iceland,EV sales,PHEV,2015,Vehicles,170.0
+Iceland,EV stock,FCEV,2015,Vehicles,4.0
+Iceland,EV stock,BEV,2015,Vehicles,570.0
+Iceland,EV stock,BEV,2016,Vehicles,960.0
+Iceland,EV stock,FCEV,2016,Vehicles,3.0
+Iceland,EV sales,PHEV,2016,Vehicles,780.0
+Iceland,EV sales,BEV,2016,Vehicles,380.0
+Iceland,EV stock,PHEV,2016,Vehicles,600.0
+Iceland,EV stock,PHEV,2017,Vehicles,2200.0
+Iceland,EV sales,BEV,2017,Vehicles,840.0
+Iceland,EV sales,PHEV,2017,Vehicles,2200.0
+Iceland,EV stock,FCEV,2017,Vehicles,2.0
+Iceland,EV stock,BEV,2017,Vehicles,1700.0
+Iceland,EV stock,BEV,2018,Vehicles,2400.0
+Iceland,EV sales,FCEV,2018,Vehicles,16.0
+Iceland,EV stock,FCEV,2018,Vehicles,17.0
+Iceland,EV sales,PHEV,2018,Vehicles,2900.0
+Iceland,EV sales,BEV,2018,Vehicles,780.0
+Iceland,EV stock,PHEV,2018,Vehicles,5600.0
+Iceland,EV stock,PHEV,2019,Vehicles,7500.0
+Iceland,EV sales,BEV,2019,Vehicles,1100.0
+Iceland,EV sales,PHEV,2019,Vehicles,2000.0
+Iceland,EV stock,FCEV,2019,Vehicles,31.0
+Iceland,EV sales,FCEV,2019,Vehicles,7.0
+Iceland,EV stock,BEV,2019,Vehicles,3500.0
+Iceland,EV stock,BEV,2020,Vehicles,5400.0
+Iceland,EV sales,FCEV,2020,Vehicles,1.0
+Iceland,EV stock,FCEV,2020,Vehicles,30.0
+Iceland,EV sales,PHEV,2020,Vehicles,2400.0
+Iceland,EV sales,BEV,2020,Vehicles,2500.0
+Iceland,EV stock,PHEV,2020,Vehicles,9600.0
+Iceland,EV stock,PHEV,2021,Vehicles,13000.0
+Iceland,EV sales,BEV,2021,Vehicles,4200.0
+Iceland,EV sales,PHEV,2021,Vehicles,4900.0
+Iceland,EV stock,FCEV,2021,Vehicles,31.0
+Iceland,EV sales,FCEV,2021,Vehicles,3.0
+Iceland,EV stock,BEV,2021,Vehicles,8500.0
+Iceland,EV stock,BEV,2022,Vehicles,14000.0
+Iceland,EV stock,FCEV,2022,Vehicles,31.0
+Iceland,EV sales,PHEV,2022,Vehicles,5100.0
+Iceland,EV sales,BEV,2022,Vehicles,6900.0
+Iceland,EV stock,PHEV,2022,Vehicles,19000.0
+Iceland,EV stock,PHEV,2023,Vehicles,22000.0
+Iceland,EV sales,BEV,2023,Vehicles,10000.0
+Iceland,EV sales,PHEV,2023,Vehicles,2400.0
+Iceland,EV stock,FCEV,2023,Vehicles,27.0
+Iceland,EV stock,BEV,2023,Vehicles,22000.0
+Iceland,EV sales,FCEV,2023,Vehicles,1.0
+India,EV stock,BEV,2010,Vehicles,880.0
+India,EV sales,BEV,2010,Vehicles,450.0
+India,EV sales,BEV,2011,Vehicles,1400.0
+India,EV stock,BEV,2011,Vehicles,1300.0
+India,EV stock,BEV,2012,Vehicles,2800.0
+India,EV sales,BEV,2012,Vehicles,190.0
+India,EV sales,BEV,2013,Vehicles,410.0
+India,EV stock,BEV,2013,Vehicles,2900.0
+India,EV stock,BEV,2014,Vehicles,3400.0
+India,EV sales,BEV,2014,Vehicles,1000.0
+India,EV sales,BEV,2015,Vehicles,450.0
+India,EV stock,BEV,2015,Vehicles,4400.0
+India,EV stock,BEV,2016,Vehicles,4800.0
+India,EV sales,BEV,2016,Vehicles,730.0
+India,EV sales,BEV,2017,Vehicles,920.0
+India,EV stock,BEV,2017,Vehicles,7000.0
+India,EV stock,BEV,2018,Vehicles,7900.0
+India,EV sales,BEV,2018,Vehicles,920.0
+India,EV sales,BEV,2019,Vehicles,680.0
+India,EV stock,BEV,2019,Vehicles,8600.0
+India,EV sales,PHEV,2019,Vehicles,7.0
+India,EV stock,PHEV,2019,Vehicles,7.0
+India,EV stock,PHEV,2020,Vehicles,50.0
+India,EV sales,PHEV,2020,Vehicles,43.0
+India,EV stock,BEV,2020,Vehicles,12000.0
+India,EV sales,BEV,2020,Vehicles,3100.0
+India,EV sales,BEV,2021,Vehicles,12000.0
+India,EV stock,BEV,2021,Vehicles,23000.0
+India,EV sales,PHEV,2021,Vehicles,50.0
+India,EV sales,FCEV,2021,Vehicles,1.0
+India,EV stock,FCEV,2021,Vehicles,1.0
+India,EV stock,PHEV,2021,Vehicles,100.0
+India,EV stock,PHEV,2022,Vehicles,120.0
+India,EV stock,FCEV,2022,Vehicles,3.0
+India,EV sales,FCEV,2022,Vehicles,2.0
+India,EV sales,PHEV,2022,Vehicles,23.0
+India,EV stock,BEV,2022,Vehicles,72000.0
+India,EV sales,BEV,2022,Vehicles,48000.0
+India,EV sales,BEV,2023,Vehicles,82000.0
+India,EV stock,BEV,2023,Vehicles,150000.0
+India,EV sales,PHEV,2023,Vehicles,270.0
+India,EV stock,FCEV,2023,Vehicles,3.0
+India,EV stock,PHEV,2023,Vehicles,390.0
+Ireland,EV sales,BEV,2015,Vehicles,470.0
+Ireland,EV sales,PHEV,2015,Vehicles,120.0
+Ireland,EV sales,PHEV,2016,Vehicles,300.0
+Ireland,EV sales,BEV,2016,Vehicles,390.0
+Ireland,EV sales,BEV,2017,Vehicles,620.0
+Ireland,EV sales,PHEV,2017,Vehicles,330.0
+Ireland,EV sales,PHEV,2018,Vehicles,740.0
+Ireland,EV sales,BEV,2018,Vehicles,1200.0
+Ireland,EV sales,BEV,2019,Vehicles,3400.0
+Ireland,EV sales,PHEV,2019,Vehicles,1300.0
+Ireland,EV sales,PHEV,2020,Vehicles,2500.0
+Ireland,EV sales,BEV,2020,Vehicles,4000.0
+Ireland,EV sales,BEV,2021,Vehicles,8600.0
+Ireland,EV sales,PHEV,2021,Vehicles,7900.0
+Ireland,EV sales,PHEV,2022,Vehicles,7700.0
+Ireland,EV sales,BEV,2022,Vehicles,16000.0
+Ireland,EV sales,BEV,2023,Vehicles,23000.0
+Ireland,EV sales,PHEV,2023,Vehicles,10000.0
+Israel,EV stock,BEV,2010,Vehicles,6.0
+Israel,EV stock,BEV,2011,Vehicles,85.0
+Israel,EV sales,BEV,2011,Vehicles,3.0
+Israel,EV sales,BEV,2012,Vehicles,600.0
+Israel,EV stock,BEV,2012,Vehicles,610.0
+Israel,EV sales,PHEV,2012,Vehicles,1.0
+Israel,EV stock,PHEV,2012,Vehicles,1.0
+Israel,EV stock,PHEV,2013,Vehicles,18.0
+Israel,EV sales,PHEV,2013,Vehicles,17.0
+Israel,EV stock,BEV,2013,Vehicles,1000.0
+Israel,EV sales,BEV,2013,Vehicles,460.0
+Israel,EV sales,BEV,2014,Vehicles,6.0
+Israel,EV stock,BEV,2014,Vehicles,1200.0
+Israel,EV sales,PHEV,2014,Vehicles,52.0
+Israel,EV stock,PHEV,2014,Vehicles,70.0
+Israel,EV stock,PHEV,2015,Vehicles,140.0
+Israel,EV sales,PHEV,2015,Vehicles,65.0
+Israel,EV stock,BEV,2015,Vehicles,1200.0
+Israel,EV sales,BEV,2015,Vehicles,3.0
+Israel,EV sales,BEV,2016,Vehicles,5.0
+Israel,EV stock,BEV,2016,Vehicles,1200.0
+Israel,EV sales,PHEV,2016,Vehicles,63.0
+Israel,EV stock,PHEV,2016,Vehicles,200.0
+Israel,EV stock,PHEV,2017,Vehicles,1700.0
+Israel,EV sales,PHEV,2017,Vehicles,1500.0
+Israel,EV stock,BEV,2017,Vehicles,1400.0
+Israel,EV sales,BEV,2017,Vehicles,130.0
+Israel,EV sales,BEV,2018,Vehicles,130.0
+Israel,EV stock,BEV,2018,Vehicles,1500.0
+Israel,EV sales,PHEV,2018,Vehicles,3600.0
+Israel,EV stock,PHEV,2018,Vehicles,5300.0
+Israel,EV stock,PHEV,2019,Vehicles,9200.0
+Israel,EV sales,PHEV,2019,Vehicles,3900.0
+Israel,EV stock,BEV,2019,Vehicles,2200.0
+Israel,EV sales,BEV,2019,Vehicles,850.0
+Israel,EV sales,BEV,2020,Vehicles,1500.0
+Israel,EV stock,BEV,2020,Vehicles,3800.0
+Israel,EV sales,PHEV,2020,Vehicles,5400.0
+Israel,EV stock,PHEV,2020,Vehicles,15000.0
+Israel,EV stock,PHEV,2021,Vehicles,28000.0
+Israel,EV sales,PHEV,2021,Vehicles,13000.0
+Israel,EV stock,BEV,2021,Vehicles,15000.0
+Israel,EV sales,BEV,2021,Vehicles,11000.0
+Israel,EV sales,BEV,2022,Vehicles,27000.0
+Israel,EV stock,BEV,2022,Vehicles,44000.0
+Israel,EV sales,PHEV,2022,Vehicles,16000.0
+Israel,EV stock,PHEV,2022,Vehicles,44000.0
+Israel,EV stock,PHEV,2023,Vehicles,60000.0
+Israel,EV sales,PHEV,2023,Vehicles,16000.0
+Israel,EV stock,BEV,2023,Vehicles,91000.0
+Israel,EV sales,BEV,2023,Vehicles,49000.0
+Italy,EV stock,BEV,2010,Vehicles,650.0
+Italy,EV sales,BEV,2010,Vehicles,40.0
+Italy,EV sales,BEV,2011,Vehicles,110.0
+Italy,EV stock,BEV,2011,Vehicles,760.0
+Italy,EV stock,BEV,2012,Vehicles,1200.0
+Italy,EV sales,BEV,2012,Vehicles,460.0
+Italy,EV sales,BEV,2013,Vehicles,860.0
+Italy,EV stock,BEV,2013,Vehicles,2000.0
+Italy,EV sales,PHEV,2013,Vehicles,180.0
+Italy,EV stock,PHEV,2013,Vehicles,180.0
+Italy,EV stock,PHEV,2014,Vehicles,520.0
+Italy,EV sales,PHEV,2014,Vehicles,340.0
+Italy,EV stock,FCEV,2014,Vehicles,10.0
+Italy,EV stock,BEV,2014,Vehicles,3100.0
+Italy,EV sales,FCEV,2014,Vehicles,10.0
+Italy,EV sales,BEV,2014,Vehicles,1000.0
+Italy,EV sales,BEV,2015,Vehicles,1500.0
+Italy,EV sales,FCEV,2015,Vehicles,1.0
+Italy,EV stock,BEV,2015,Vehicles,4400.0
+Italy,EV stock,FCEV,2015,Vehicles,11.0
+Italy,EV sales,PHEV,2015,Vehicles,740.0
+Italy,EV stock,PHEV,2015,Vehicles,1300.0
+Italy,EV stock,PHEV,2016,Vehicles,2700.0
+Italy,EV sales,PHEV,2016,Vehicles,1300.0
+Italy,EV stock,FCEV,2016,Vehicles,11.0
+Italy,EV stock,BEV,2016,Vehicles,5800.0
+Italy,EV sales,BEV,2016,Vehicles,1400.0
+Italy,EV sales,BEV,2017,Vehicles,2000.0
+Italy,EV stock,BEV,2017,Vehicles,7800.0
+Italy,EV stock,FCEV,2017,Vehicles,11.0
+Italy,EV sales,PHEV,2017,Vehicles,2900.0
+Italy,EV stock,PHEV,2017,Vehicles,5600.0
+Italy,EV stock,PHEV,2018,Vehicles,10000.0
+Italy,EV sales,PHEV,2018,Vehicles,4700.0
+Italy,EV stock,FCEV,2018,Vehicles,12.0
+Italy,EV stock,BEV,2018,Vehicles,13000.0
+Italy,EV sales,FCEV,2018,Vehicles,1.0
+Italy,EV sales,BEV,2018,Vehicles,5000.0
+Italy,EV sales,BEV,2019,Vehicles,11000.0
+Italy,EV sales,FCEV,2019,Vehicles,17.0
+Italy,EV stock,BEV,2019,Vehicles,23000.0
+Italy,EV stock,FCEV,2019,Vehicles,28.0
+Italy,EV sales,PHEV,2019,Vehicles,6500.0
+Italy,EV stock,PHEV,2019,Vehicles,17000.0
+Italy,EV stock,PHEV,2020,Vehicles,44000.0
+Italy,EV sales,PHEV,2020,Vehicles,27000.0
+Italy,EV stock,FCEV,2020,Vehicles,35.0
+Italy,EV stock,BEV,2020,Vehicles,55000.0
+Italy,EV sales,FCEV,2020,Vehicles,7.0
+Italy,EV sales,BEV,2020,Vehicles,33000.0
+Italy,EV sales,BEV,2021,Vehicles,67000.0
+Italy,EV sales,FCEV,2021,Vehicles,10.0
+Italy,EV stock,BEV,2021,Vehicles,120000.0
+Italy,EV stock,FCEV,2021,Vehicles,45.0
+Italy,EV sales,PHEV,2021,Vehicles,71000.0
+Italy,EV stock,PHEV,2021,Vehicles,110000.0
+Italy,EV stock,PHEV,2022,Vehicles,180000.0
+Italy,EV sales,PHEV,2022,Vehicles,65000.0
+Italy,EV stock,FCEV,2022,Vehicles,56.0
+Italy,EV stock,BEV,2022,Vehicles,170000.0
+Italy,EV sales,FCEV,2022,Vehicles,11.0
+Italy,EV sales,BEV,2022,Vehicles,49000.0
+Italy,EV sales,BEV,2023,Vehicles,66000.0
+Italy,EV sales,FCEV,2023,Vehicles,2.0
+Italy,EV stock,BEV,2023,Vehicles,240000.0
+Italy,EV stock,FCEV,2023,Vehicles,59.0
+Italy,EV sales,PHEV,2023,Vehicles,70000.0
+Italy,EV stock,PHEV,2023,Vehicles,250000.0
+Japan,EV stock,BEV,2010,Vehicles,3500.0
+Japan,EV sales,BEV,2010,Vehicles,2400.0
+Japan,EV sales,FCEV,2010,Vehicles,2.0
+Japan,EV sales,PHEV,2011,Vehicles,15.0
+Japan,EV stock,PHEV,2011,Vehicles,15.0
+Japan,EV sales,BEV,2011,Vehicles,13000.0
+Japan,EV stock,BEV,2011,Vehicles,16000.0
+Japan,EV stock,BEV,2012,Vehicles,30000.0
+Japan,EV sales,BEV,2012,Vehicles,13000.0
+Japan,EV stock,PHEV,2012,Vehicles,11000.0
+Japan,EV sales,PHEV,2012,Vehicles,11000.0
+Japan,EV sales,FCEV,2012,Vehicles,1.0
+Japan,EV sales,FCEV,2013,Vehicles,4.0
+Japan,EV sales,PHEV,2013,Vehicles,14000.0
+Japan,EV stock,PHEV,2013,Vehicles,25000.0
+Japan,EV stock,BEV,2013,Vehicles,44000.0
+Japan,EV sales,BEV,2013,Vehicles,15000.0
+Japan,EV sales,BEV,2014,Vehicles,16000.0
+Japan,EV stock,BEV,2014,Vehicles,70000.0
+Japan,EV stock,PHEV,2014,Vehicles,41000.0
+Japan,EV sales,PHEV,2014,Vehicles,16000.0
+Japan,EV sales,FCEV,2014,Vehicles,7.0
+Japan,EV sales,FCEV,2015,Vehicles,390.0
+Japan,EV sales,PHEV,2015,Vehicles,14000.0
+Japan,EV stock,FCEV,2015,Vehicles,400.0
+Japan,EV stock,PHEV,2015,Vehicles,55000.0
+Japan,EV stock,BEV,2015,Vehicles,79000.0
+Japan,EV sales,BEV,2015,Vehicles,10000.0
+Japan,EV sales,BEV,2016,Vehicles,15000.0
+Japan,EV stock,BEV,2016,Vehicles,88000.0
+Japan,EV stock,PHEV,2016,Vehicles,65000.0
+Japan,EV stock,FCEV,2016,Vehicles,1400.0
+Japan,EV sales,PHEV,2016,Vehicles,9400.0
+Japan,EV sales,FCEV,2016,Vehicles,1100.0
+Japan,EV sales,FCEV,2017,Vehicles,850.0
+Japan,EV sales,PHEV,2017,Vehicles,36000.0
+Japan,EV stock,FCEV,2017,Vehicles,2300.0
+Japan,EV stock,PHEV,2017,Vehicles,100000.0
+Japan,EV stock,BEV,2017,Vehicles,100000.0
+Japan,EV sales,BEV,2017,Vehicles,18000.0
+Japan,EV sales,BEV,2018,Vehicles,27000.0
+Japan,EV stock,BEV,2018,Vehicles,110000.0
+Japan,EV stock,PHEV,2018,Vehicles,120000.0
+Japan,EV stock,FCEV,2018,Vehicles,2900.0
+Japan,EV sales,PHEV,2018,Vehicles,23000.0
+Japan,EV sales,FCEV,2018,Vehicles,610.0
+Japan,EV sales,FCEV,2019,Vehicles,670.0
+Japan,EV sales,PHEV,2019,Vehicles,18000.0
+Japan,EV stock,FCEV,2019,Vehicles,3600.0
+Japan,EV stock,PHEV,2019,Vehicles,140000.0
+Japan,EV stock,BEV,2019,Vehicles,120000.0
+Japan,EV sales,BEV,2019,Vehicles,21000.0
+Japan,EV sales,BEV,2020,Vehicles,15000.0
+Japan,EV stock,BEV,2020,Vehicles,140000.0
+Japan,EV stock,PHEV,2020,Vehicles,160000.0
+Japan,EV stock,FCEV,2020,Vehicles,4100.0
+Japan,EV sales,PHEV,2020,Vehicles,15000.0
+Japan,EV sales,FCEV,2020,Vehicles,490.0
+Japan,EV sales,FCEV,2021,Vehicles,2500.0
+Japan,EV stock,BEV,2021,Vehicles,160000.0
+Japan,EV sales,PHEV,2021,Vehicles,23000.0
+Japan,EV stock,FCEV,2021,Vehicles,6600.0
+Japan,EV stock,PHEV,2021,Vehicles,180000.0
+Japan,EV sales,BEV,2021,Vehicles,22000.0
+Japan,EV sales,BEV,2022,Vehicles,59000.0
+Japan,EV stock,PHEV,2022,Vehicles,200000.0
+Japan,EV stock,FCEV,2022,Vehicles,7600.0
+Japan,EV sales,PHEV,2022,Vehicles,38000.0
+Japan,EV stock,BEV,2022,Vehicles,210000.0
+Japan,EV sales,FCEV,2022,Vehicles,990.0
+Japan,EV sales,FCEV,2023,Vehicles,320.0
+Japan,EV stock,BEV,2023,Vehicles,290000.0
+Japan,EV sales,PHEV,2023,Vehicles,52000.0
+Japan,EV stock,FCEV,2023,Vehicles,7900.0
+Japan,EV stock,PHEV,2023,Vehicles,250000.0
+Japan,EV sales,BEV,2023,Vehicles,88000.0
+Korea,EV sales,BEV,2010,Vehicles,61.0
+Korea,EV stock,BEV,2010,Vehicles,61.0
+Korea,EV stock,BEV,2011,Vehicles,340.0
+Korea,EV sales,BEV,2011,Vehicles,270.0
+Korea,EV sales,BEV,2012,Vehicles,510.0
+Korea,EV stock,BEV,2012,Vehicles,850.0
+Korea,EV stock,BEV,2013,Vehicles,1400.0
+Korea,EV sales,BEV,2013,Vehicles,600.0
+Korea,EV sales,BEV,2014,Vehicles,1300.0
+Korea,EV stock,BEV,2014,Vehicles,2700.0
+Korea,EV stock,BEV,2015,Vehicles,5800.0
+Korea,EV sales,BEV,2015,Vehicles,3100.0
+Korea,EV sales,FCEV,2015,Vehicles,29.0
+Korea,EV stock,FCEV,2015,Vehicles,12.0
+Korea,EV stock,PHEV,2015,Vehicles,250.0
+Korea,EV sales,PHEV,2015,Vehicles,250.0
+Korea,EV sales,PHEV,2016,Vehicles,330.0
+Korea,EV stock,PHEV,2016,Vehicles,580.0
+Korea,EV stock,FCEV,2016,Vehicles,46.0
+Korea,EV sales,FCEV,2016,Vehicles,58.0
+Korea,EV sales,BEV,2016,Vehicles,4700.0
+Korea,EV stock,BEV,2016,Vehicles,10000.0
+Korea,EV stock,BEV,2017,Vehicles,24000.0
+Korea,EV sales,BEV,2017,Vehicles,14000.0
+Korea,EV sales,FCEV,2017,Vehicles,75.0
+Korea,EV stock,FCEV,2017,Vehicles,100.0
+Korea,EV stock,PHEV,2017,Vehicles,1300.0
+Korea,EV sales,PHEV,2017,Vehicles,670.0
+Korea,EV sales,PHEV,2018,Vehicles,4400.0
+Korea,EV stock,PHEV,2018,Vehicles,5600.0
+Korea,EV stock,FCEV,2018,Vehicles,900.0
+Korea,EV sales,FCEV,2018,Vehicles,910.0
+Korea,EV sales,BEV,2018,Vehicles,55000.0
+Korea,EV stock,BEV,2018,Vehicles,55000.0
+Korea,EV stock,BEV,2019,Vehicles,89000.0
+Korea,EV sales,BEV,2019,Vehicles,33000.0
+Korea,EV sales,FCEV,2019,Vehicles,4200.0
+Korea,EV stock,FCEV,2019,Vehicles,5100.0
+Korea,EV stock,PHEV,2019,Vehicles,11000.0
+Korea,EV sales,PHEV,2019,Vehicles,2700.0
+Korea,EV sales,PHEV,2020,Vehicles,8700.0
+Korea,EV stock,PHEV,2020,Vehicles,24000.0
+Korea,EV stock,FCEV,2020,Vehicles,10000.0
+Korea,EV sales,FCEV,2020,Vehicles,5000.0
+Korea,EV sales,BEV,2020,Vehicles,31000.0
+Korea,EV stock,BEV,2020,Vehicles,120000.0
+Korea,EV stock,BEV,2021,Vehicles,190000.0
+Korea,EV sales,BEV,2021,Vehicles,72000.0
+Korea,EV sales,FCEV,2021,Vehicles,9200.0
+Korea,EV stock,FCEV,2021,Vehicles,19000.0
+Korea,EV stock,PHEV,2021,Vehicles,44000.0
+Korea,EV sales,PHEV,2021,Vehicles,19000.0
+Korea,EV sales,PHEV,2022,Vehicles,11000.0
+Korea,EV stock,PHEV,2022,Vehicles,57000.0
+Korea,EV stock,FCEV,2022,Vehicles,29000.0
+Korea,EV sales,FCEV,2022,Vehicles,10000.0
+Korea,EV sales,BEV,2022,Vehicles,120000.0
+Korea,EV stock,BEV,2022,Vehicles,300000.0
+Korea,EV stock,BEV,2023,Vehicles,420000.0
+Korea,EV sales,BEV,2023,Vehicles,120000.0
+Korea,EV sales,FCEV,2023,Vehicles,4300.0
+Korea,EV stock,FCEV,2023,Vehicles,34000.0
+Korea,EV stock,PHEV,2023,Vehicles,69000.0
+Korea,EV sales,PHEV,2023,Vehicles,12000.0
+Latvia,EV sales,BEV,2015,Vehicles,17.0
+Latvia,EV sales,PHEV,2015,Vehicles,9.0
+Latvia,EV sales,PHEV,2016,Vehicles,18.0
+Latvia,EV sales,BEV,2016,Vehicles,22.0
+Latvia,EV sales,BEV,2017,Vehicles,22.0
+Latvia,EV sales,PHEV,2017,Vehicles,18.0
+Latvia,EV sales,PHEV,2018,Vehicles,17.0
+Latvia,EV sales,BEV,2018,Vehicles,73.0
+Latvia,EV sales,BEV,2019,Vehicles,86.0
+Latvia,EV sales,PHEV,2019,Vehicles,12.0
+Latvia,EV sales,PHEV,2020,Vehicles,73.0
+Latvia,EV sales,BEV,2020,Vehicles,310.0
+Latvia,EV sales,BEV,2021,Vehicles,410.0
+Latvia,EV sales,PHEV,2021,Vehicles,140.0
+Latvia,EV sales,PHEV,2022,Vehicles,300.0
+Latvia,EV sales,BEV,2022,Vehicles,1100.0
+Latvia,EV sales,BEV,2023,Vehicles,1700.0
+Latvia,EV sales,PHEV,2023,Vehicles,360.0
+Lithuania,EV sales,BEV,2015,Vehicles,37.0
+Lithuania,EV sales,BEV,2016,Vehicles,64.0
+Lithuania,EV sales,BEV,2017,Vehicles,52.0
+Lithuania,EV sales,BEV,2018,Vehicles,140.0
+Lithuania,EV sales,BEV,2019,Vehicles,160.0
+Lithuania,EV sales,BEV,2020,Vehicles,450.0
+Lithuania,EV sales,BEV,2021,Vehicles,1200.0
+Lithuania,EV sales,PHEV,2021,Vehicles,400.0
+Lithuania,EV sales,PHEV,2022,Vehicles,670.0
+Lithuania,EV sales,BEV,2022,Vehicles,1400.0
+Lithuania,EV sales,BEV,2023,Vehicles,2100.0
+Luxembourg,EV sales,PHEV,2019,Vehicles,910.0
+Luxembourg,EV sales,BEV,2019,Vehicles,990.0
+Luxembourg,EV sales,BEV,2020,Vehicles,2500.0
+Luxembourg,EV sales,PHEV,2020,Vehicles,2700.0
+Luxembourg,EV sales,PHEV,2021,Vehicles,4400.0
+Luxembourg,EV sales,BEV,2021,Vehicles,4600.0
+Luxembourg,EV sales,BEV,2022,Vehicles,6400.0
+Luxembourg,EV sales,PHEV,2022,Vehicles,3800.0
+Luxembourg,EV sales,PHEV,2023,Vehicles,4800.0
+Luxembourg,EV sales,BEV,2023,Vehicles,11000.0
+Mexico,EV stock,BEV,2011,Vehicles,3.0
+Mexico,EV sales,BEV,2011,Vehicles,3.0
+Mexico,EV sales,BEV,2012,Vehicles,88.0
+Mexico,EV stock,BEV,2012,Vehicles,91.0
+Mexico,EV stock,BEV,2013,Vehicles,100.0
+Mexico,EV sales,BEV,2013,Vehicles,12.0
+Mexico,EV sales,BEV,2014,Vehicles,48.0
+Mexico,EV stock,BEV,2014,Vehicles,150.0
+Mexico,EV stock,BEV,2015,Vehicles,240.0
+Mexico,EV sales,PHEV,2015,Vehicles,7.0
+Mexico,EV stock,PHEV,2015,Vehicles,7.0
+Mexico,EV sales,BEV,2015,Vehicles,92.0
+Mexico,EV sales,BEV,2016,Vehicles,250.0
+Mexico,EV stock,PHEV,2016,Vehicles,530.0
+Mexico,EV sales,PHEV,2016,Vehicles,520.0
+Mexico,EV stock,BEV,2016,Vehicles,500.0
+Mexico,EV stock,BEV,2017,Vehicles,730.0
+Mexico,EV sales,PHEV,2017,Vehicles,970.0
+Mexico,EV stock,PHEV,2017,Vehicles,1500.0
+Mexico,EV sales,BEV,2017,Vehicles,230.0
+Mexico,EV sales,BEV,2018,Vehicles,200.0
+Mexico,EV stock,PHEV,2018,Vehicles,3100.0
+Mexico,EV sales,PHEV,2018,Vehicles,1600.0
+Mexico,EV stock,BEV,2018,Vehicles,930.0
+Mexico,EV stock,BEV,2019,Vehicles,1200.0
+Mexico,EV sales,PHEV,2019,Vehicles,1400.0
+Mexico,EV stock,PHEV,2019,Vehicles,4400.0
+Mexico,EV sales,BEV,2019,Vehicles,290.0
+Mexico,EV sales,BEV,2020,Vehicles,1800.0
+Mexico,EV stock,PHEV,2020,Vehicles,6400.0
+Mexico,EV sales,PHEV,2020,Vehicles,2000.0
+Mexico,EV stock,BEV,2020,Vehicles,3100.0
+Mexico,EV stock,BEV,2021,Vehicles,6100.0
+Mexico,EV sales,PHEV,2021,Vehicles,3500.0
+Mexico,EV stock,PHEV,2021,Vehicles,9900.0
+Mexico,EV sales,BEV,2021,Vehicles,3000.0
+Mexico,EV sales,BEV,2022,Vehicles,4400.0
+Mexico,EV stock,PHEV,2022,Vehicles,14000.0
+Mexico,EV sales,PHEV,2022,Vehicles,4000.0
+Mexico,EV stock,BEV,2022,Vehicles,10000.0
+Mexico,EV stock,BEV,2023,Vehicles,24000.0
+Mexico,EV sales,PHEV,2023,Vehicles,2200.0
+Mexico,EV stock,PHEV,2023,Vehicles,16000.0
+Mexico,EV sales,BEV,2023,Vehicles,13000.0
+Netherlands,EV stock,PHEV,2010,Vehicles,11.0
+Netherlands,EV sales,BEV,2010,Vehicles,120.0
+Netherlands,EV stock,BEV,2010,Vehicles,270.0
+Netherlands,EV stock,BEV,2011,Vehicles,1100.0
+Netherlands,EV sales,BEV,2011,Vehicles,860.0
+Netherlands,EV stock,PHEV,2011,Vehicles,26.0
+Netherlands,EV sales,PHEV,2011,Vehicles,17.0
+Netherlands,EV sales,PHEV,2012,Vehicles,4300.0
+Netherlands,EV stock,PHEV,2012,Vehicles,4400.0
+Netherlands,EV sales,BEV,2012,Vehicles,790.0
+Netherlands,EV stock,BEV,2012,Vehicles,1900.0
+Netherlands,EV stock,BEV,2013,Vehicles,4200.0
+Netherlands,EV sales,BEV,2013,Vehicles,2600.0
+Netherlands,EV stock,PHEV,2013,Vehicles,24000.0
+Netherlands,EV sales,PHEV,2013,Vehicles,20000.0
+Netherlands,EV sales,PHEV,2014,Vehicles,12000.0
+Netherlands,EV stock,FCEV,2014,Vehicles,2.0
+Netherlands,EV stock,PHEV,2014,Vehicles,37000.0
+Netherlands,EV sales,BEV,2014,Vehicles,2700.0
+Netherlands,EV stock,BEV,2014,Vehicles,6800.0
+Netherlands,EV sales,FCEV,2014,Vehicles,2.0
+Netherlands,EV sales,FCEV,2015,Vehicles,19.0
+Netherlands,EV stock,BEV,2015,Vehicles,9400.0
+Netherlands,EV sales,BEV,2015,Vehicles,3400.0
+Netherlands,EV stock,PHEV,2015,Vehicles,79000.0
+Netherlands,EV stock,FCEV,2015,Vehicles,26.0
+Netherlands,EV sales,PHEV,2015,Vehicles,39000.0
+Netherlands,EV sales,PHEV,2016,Vehicles,18000.0
+Netherlands,EV stock,FCEV,2016,Vehicles,33.0
+Netherlands,EV stock,PHEV,2016,Vehicles,99000.0
+Netherlands,EV sales,BEV,2016,Vehicles,4000.0
+Netherlands,EV stock,BEV,2016,Vehicles,13000.0
+Netherlands,EV sales,FCEV,2016,Vehicles,7.0
+Netherlands,EV sales,FCEV,2017,Vehicles,5.0
+Netherlands,EV stock,BEV,2017,Vehicles,21000.0
+Netherlands,EV sales,BEV,2017,Vehicles,8000.0
+Netherlands,EV stock,PHEV,2017,Vehicles,97000.0
+Netherlands,EV stock,FCEV,2017,Vehicles,39.0
+Netherlands,EV sales,PHEV,2017,Vehicles,1100.0
+Netherlands,EV sales,PHEV,2018,Vehicles,3600.0
+Netherlands,EV stock,FCEV,2018,Vehicles,52.0
+Netherlands,EV stock,PHEV,2018,Vehicles,95000.0
+Netherlands,EV sales,BEV,2018,Vehicles,24000.0
+Netherlands,EV stock,BEV,2018,Vehicles,44000.0
+Netherlands,EV sales,FCEV,2018,Vehicles,13.0
+Netherlands,EV sales,FCEV,2019,Vehicles,150.0
+Netherlands,EV stock,BEV,2019,Vehicles,110000.0
+Netherlands,EV sales,BEV,2019,Vehicles,61000.0
+Netherlands,EV stock,PHEV,2019,Vehicles,92000.0
+Netherlands,EV stock,FCEV,2019,Vehicles,210.0
+Netherlands,EV sales,PHEV,2019,Vehicles,5200.0
+Netherlands,EV sales,PHEV,2020,Vehicles,15000.0
+Netherlands,EV stock,FCEV,2020,Vehicles,360.0
+Netherlands,EV stock,PHEV,2020,Vehicles,98000.0
+Netherlands,EV sales,BEV,2020,Vehicles,72000.0
+Netherlands,EV stock,BEV,2020,Vehicles,170000.0
+Netherlands,EV sales,FCEV,2020,Vehicles,140.0
+Netherlands,EV sales,FCEV,2021,Vehicles,110.0
+Netherlands,EV stock,BEV,2021,Vehicles,240000.0
+Netherlands,EV sales,BEV,2021,Vehicles,61000.0
+Netherlands,EV stock,PHEV,2021,Vehicles,140000.0
+Netherlands,EV stock,FCEV,2021,Vehicles,490.0
+Netherlands,EV sales,PHEV,2021,Vehicles,31000.0
+Netherlands,EV sales,PHEV,2022,Vehicles,34000.0
+Netherlands,EV stock,FCEV,2022,Vehicles,600.0
+Netherlands,EV stock,PHEV,2022,Vehicles,190000.0
+Netherlands,EV sales,BEV,2022,Vehicles,72000.0
+Netherlands,EV stock,BEV,2022,Vehicles,330000.0
+Netherlands,EV sales,FCEV,2022,Vehicles,64.0
+Netherlands,EV sales,FCEV,2023,Vehicles,40.0
+Netherlands,EV stock,BEV,2023,Vehicles,440000.0
+Netherlands,EV sales,BEV,2023,Vehicles,110000.0
+Netherlands,EV stock,PHEV,2023,Vehicles,260000.0
+Netherlands,EV stock,FCEV,2023,Vehicles,620.0
+Netherlands,EV sales,PHEV,2023,Vehicles,46000.0
+New Zealand,EV sales,BEV,2010,Vehicles,10.0
+New Zealand,EV stock,BEV,2010,Vehicles,14.0
+New Zealand,EV stock,BEV,2011,Vehicles,27.0
+New Zealand,EV sales,PHEV,2011,Vehicles,2.0
+New Zealand,EV sales,BEV,2011,Vehicles,13.0
+New Zealand,EV stock,PHEV,2011,Vehicles,2.0
+New Zealand,EV stock,PHEV,2012,Vehicles,7.0
+New Zealand,EV sales,BEV,2012,Vehicles,22.0
+New Zealand,EV sales,PHEV,2012,Vehicles,5.0
+New Zealand,EV stock,BEV,2012,Vehicles,49.0
+New Zealand,EV stock,BEV,2013,Vehicles,79.0
+New Zealand,EV sales,PHEV,2013,Vehicles,6.0
+New Zealand,EV sales,BEV,2013,Vehicles,30.0
+New Zealand,EV stock,PHEV,2013,Vehicles,13.0
+New Zealand,EV stock,PHEV,2014,Vehicles,220.0
+New Zealand,EV sales,BEV,2014,Vehicles,110.0
+New Zealand,EV sales,PHEV,2014,Vehicles,210.0
+New Zealand,EV stock,BEV,2014,Vehicles,190.0
+New Zealand,EV stock,BEV,2015,Vehicles,490.0
+New Zealand,EV sales,PHEV,2015,Vehicles,200.0
+New Zealand,EV sales,BEV,2015,Vehicles,300.0
+New Zealand,EV stock,PHEV,2015,Vehicles,420.0
+New Zealand,EV stock,PHEV,2016,Vehicles,760.0
+New Zealand,EV sales,BEV,2016,Vehicles,1200.0
+New Zealand,EV sales,PHEV,2016,Vehicles,340.0
+New Zealand,EV stock,BEV,2016,Vehicles,1600.0
+New Zealand,EV stock,BEV,2017,Vehicles,4600.0
+New Zealand,EV sales,PHEV,2017,Vehicles,540.0
+New Zealand,EV sales,BEV,2017,Vehicles,2900.0
+New Zealand,EV stock,PHEV,2017,Vehicles,1300.0
+New Zealand,EV stock,PHEV,2018,Vehicles,2500.0
+New Zealand,EV sales,BEV,2018,Vehicles,4400.0
+New Zealand,EV sales,PHEV,2018,Vehicles,1200.0
+New Zealand,EV stock,BEV,2018,Vehicles,8900.0
+New Zealand,EV stock,BEV,2019,Vehicles,13000.0
+New Zealand,EV sales,PHEV,2019,Vehicles,1600.0
+New Zealand,EV sales,FCEV,2019,Vehicles,2.0
+New Zealand,EV sales,BEV,2019,Vehicles,5300.0
+New Zealand,EV stock,PHEV,2019,Vehicles,4400.0
+New Zealand,EV stock,FCEV,2019,Vehicles,2.0
+New Zealand,EV stock,FCEV,2020,Vehicles,5.0
+New Zealand,EV stock,PHEV,2020,Vehicles,5900.0
+New Zealand,EV sales,BEV,2020,Vehicles,3900.0
+New Zealand,EV sales,FCEV,2020,Vehicles,3.0
+New Zealand,EV sales,PHEV,2020,Vehicles,1500.0
+New Zealand,EV stock,BEV,2020,Vehicles,17000.0
+New Zealand,EV stock,BEV,2021,Vehicles,26000.0
+New Zealand,EV sales,PHEV,2021,Vehicles,3500.0
+New Zealand,EV sales,FCEV,2021,Vehicles,1.0
+New Zealand,EV sales,BEV,2021,Vehicles,6800.0
+New Zealand,EV stock,PHEV,2021,Vehicles,9400.0
+New Zealand,EV stock,FCEV,2021,Vehicles,6.0
+New Zealand,EV stock,FCEV,2022,Vehicles,16.0
+New Zealand,EV stock,PHEV,2022,Vehicles,19000.0
+New Zealand,EV sales,BEV,2022,Vehicles,19000.0
+New Zealand,EV sales,FCEV,2022,Vehicles,10.0
+New Zealand,EV sales,PHEV,2022,Vehicles,9200.0
+New Zealand,EV stock,BEV,2022,Vehicles,46000.0
+New Zealand,EV stock,BEV,2023,Vehicles,70000.0
+New Zealand,EV sales,PHEV,2023,Vehicles,12000.0
+New Zealand,EV sales,FCEV,2023,Vehicles,4.0
+New Zealand,EV sales,BEV,2023,Vehicles,26000.0
+New Zealand,EV stock,PHEV,2023,Vehicles,30000.0
+New Zealand,EV stock,FCEV,2023,Vehicles,20.0
+Norway,EV sales,BEV,2010,Vehicles,360.0
+Norway,EV stock,BEV,2010,Vehicles,2700.0
+Norway,EV stock,PHEV,2010,Vehicles,2.0
+Norway,EV stock,PHEV,2011,Vehicles,3.0
+Norway,EV stock,BEV,2011,Vehicles,3900.0
+Norway,EV sales,BEV,2011,Vehicles,2000.0
+Norway,EV sales,BEV,2012,Vehicles,3900.0
+Norway,EV stock,BEV,2012,Vehicles,8000.0
+Norway,EV stock,PHEV,2012,Vehicles,340.0
+Norway,EV sales,PHEV,2012,Vehicles,320.0
+Norway,EV sales,PHEV,2013,Vehicles,340.0
+Norway,EV stock,PHEV,2013,Vehicles,660.0
+Norway,EV stock,BEV,2013,Vehicles,15000.0
+Norway,EV sales,BEV,2013,Vehicles,7900.0
+Norway,EV sales,BEV,2014,Vehicles,20000.0
+Norway,EV stock,BEV,2014,Vehicles,33000.0
+Norway,EV sales,FCEV,2014,Vehicles,4.0
+Norway,EV stock,FCEV,2014,Vehicles,4.0
+Norway,EV stock,PHEV,2014,Vehicles,2300.0
+Norway,EV sales,PHEV,2014,Vehicles,1700.0
+Norway,EV sales,PHEV,2015,Vehicles,7900.0
+Norway,EV stock,PHEV,2015,Vehicles,10000.0
+Norway,EV stock,FCEV,2015,Vehicles,13.0
+Norway,EV sales,FCEV,2015,Vehicles,9.0
+Norway,EV stock,BEV,2015,Vehicles,59000.0
+Norway,EV sales,BEV,2015,Vehicles,26000.0
+Norway,EV sales,BEV,2016,Vehicles,24000.0
+Norway,EV stock,BEV,2016,Vehicles,83000.0
+Norway,EV sales,FCEV,2016,Vehicles,20.0
+Norway,EV stock,FCEV,2016,Vehicles,40.0
+Norway,EV stock,PHEV,2016,Vehicles,31000.0
+Norway,EV sales,PHEV,2016,Vehicles,21000.0
+Norway,EV sales,PHEV,2017,Vehicles,29000.0
+Norway,EV stock,PHEV,2017,Vehicles,60000.0
+Norway,EV stock,FCEV,2017,Vehicles,70.0
+Norway,EV sales,FCEV,2017,Vehicles,30.0
+Norway,EV stock,BEV,2017,Vehicles,120000.0
+Norway,EV sales,BEV,2017,Vehicles,33000.0
+Norway,EV sales,BEV,2018,Vehicles,46000.0
+Norway,EV stock,BEV,2018,Vehicles,160000.0
+Norway,EV sales,FCEV,2018,Vehicles,45.0
+Norway,EV stock,FCEV,2018,Vehicles,120.0
+Norway,EV stock,PHEV,2018,Vehicles,87000.0
+Norway,EV sales,PHEV,2018,Vehicles,27000.0
+Norway,EV sales,PHEV,2019,Vehicles,19000.0
+Norway,EV stock,PHEV,2019,Vehicles,110000.0
+Norway,EV stock,FCEV,2019,Vehicles,180.0
+Norway,EV sales,FCEV,2019,Vehicles,29.0
+Norway,EV stock,BEV,2019,Vehicles,220000.0
+Norway,EV sales,BEV,2019,Vehicles,60000.0
+Norway,EV sales,BEV,2020,Vehicles,77000.0
+Norway,EV stock,BEV,2020,Vehicles,340000.0
+Norway,EV sales,FCEV,2020,Vehicles,16.0
+Norway,EV stock,FCEV,2020,Vehicles,200.0
+Norway,EV stock,PHEV,2020,Vehicles,150000.0
+Norway,EV sales,PHEV,2020,Vehicles,29000.0
+Norway,EV sales,PHEV,2021,Vehicles,38000.0
+Norway,EV stock,PHEV,2021,Vehicles,180000.0
+Norway,EV stock,FCEV,2021,Vehicles,230.0
+Norway,EV sales,FCEV,2021,Vehicles,39.0
+Norway,EV stock,BEV,2021,Vehicles,450000.0
+Norway,EV sales,BEV,2021,Vehicles,110000.0
+Norway,EV sales,BEV,2022,Vehicles,140000.0
+Norway,EV stock,BEV,2022,Vehicles,590000.0
+Norway,EV sales,FCEV,2022,Vehicles,27.0
+Norway,EV stock,FCEV,2022,Vehicles,260.0
+Norway,EV stock,PHEV,2022,Vehicles,200000.0
+Norway,EV sales,PHEV,2022,Vehicles,16000.0
+Norway,EV sales,PHEV,2023,Vehicles,10000.0
+Norway,EV stock,PHEV,2023,Vehicles,210000.0
+Norway,EV stock,FCEV,2023,Vehicles,290.0
+Norway,EV sales,FCEV,2023,Vehicles,6.0
+Norway,EV stock,BEV,2023,Vehicles,690000.0
+Norway,EV sales,BEV,2023,Vehicles,100000.0
+Poland,EV sales,BEV,2010,Vehicles,15.0
+Poland,EV sales,PHEV,2010,Vehicles,1.0
+Poland,EV sales,BEV,2011,Vehicles,43.0
+Poland,EV sales,BEV,2012,Vehicles,44.0
+Poland,EV sales,PHEV,2012,Vehicles,4.0
+Poland,EV sales,PHEV,2013,Vehicles,6.0
+Poland,EV sales,BEV,2013,Vehicles,31.0
+Poland,EV sales,BEV,2014,Vehicles,140.0
+Poland,EV sales,PHEV,2014,Vehicles,61.0
+Poland,EV sales,PHEV,2015,Vehicles,150.0
+Poland,EV stock,BEV,2015,Vehicles,2500.0
+Poland,EV sales,BEV,2015,Vehicles,70.0
+Poland,EV sales,BEV,2016,Vehicles,110.0
+Poland,EV stock,BEV,2016,Vehicles,2600.0
+Poland,EV sales,PHEV,2016,Vehicles,400.0
+Poland,EV sales,PHEV,2017,Vehicles,640.0
+Poland,EV stock,FCEV,2017,Vehicles,14.0
+Poland,EV stock,BEV,2017,Vehicles,3100.0
+Poland,EV sales,BEV,2017,Vehicles,440.0
+Poland,EV sales,BEV,2018,Vehicles,620.0
+Poland,EV stock,BEV,2018,Vehicles,3700.0
+Poland,EV stock,FCEV,2018,Vehicles,28.0
+Poland,EV sales,FCEV,2018,Vehicles,1.0
+Poland,EV sales,PHEV,2018,Vehicles,760.0
+Poland,EV sales,PHEV,2019,Vehicles,1200.0
+Poland,EV stock,FCEV,2019,Vehicles,34.0
+Poland,EV stock,BEV,2019,Vehicles,4800.0
+Poland,EV stock,PHEV,2019,Vehicles,3800.0
+Poland,EV sales,BEV,2019,Vehicles,1500.0
+Poland,EV sales,BEV,2020,Vehicles,3700.0
+Poland,EV stock,PHEV,2020,Vehicles,8300.0
+Poland,EV stock,BEV,2020,Vehicles,9400.0
+Poland,EV stock,FCEV,2020,Vehicles,28.0
+Poland,EV sales,PHEV,2020,Vehicles,4500.0
+Poland,EV sales,PHEV,2021,Vehicles,9100.0
+Poland,EV stock,FCEV,2021,Vehicles,91.0
+Poland,EV sales,FCEV,2021,Vehicles,78.0
+Poland,EV stock,BEV,2021,Vehicles,18000.0
+Poland,EV stock,PHEV,2021,Vehicles,19000.0
+Poland,EV sales,BEV,2021,Vehicles,7200.0
+Poland,EV sales,BEV,2022,Vehicles,14000.0
+Poland,EV stock,PHEV,2022,Vehicles,30000.0
+Poland,EV stock,BEV,2022,Vehicles,31000.0
+Poland,EV sales,FCEV,2022,Vehicles,46.0
+Poland,EV stock,FCEV,2022,Vehicles,130.0
+Poland,EV sales,PHEV,2022,Vehicles,11000.0
+Poland,EV sales,PHEV,2023,Vehicles,13000.0
+Poland,EV stock,FCEV,2023,Vehicles,210.0
+Poland,EV sales,FCEV,2023,Vehicles,83.0
+Poland,EV stock,BEV,2023,Vehicles,52000.0
+Poland,EV sales,BEV,2023,Vehicles,17000.0
+Poland,EV stock,PHEV,2023,Vehicles,47000.0
+Portugal,EV sales,BEV,2010,Vehicles,13.0
+Portugal,EV stock,BEV,2010,Vehicles,720.0
+Portugal,EV stock,BEV,2011,Vehicles,910.0
+Portugal,EV sales,BEV,2011,Vehicles,170.0
+Portugal,EV sales,PHEV,2011,Vehicles,2.0
+Portugal,EV sales,PHEV,2012,Vehicles,30.0
+Portugal,EV sales,BEV,2012,Vehicles,54.0
+Portugal,EV stock,BEV,2012,Vehicles,960.0
+Portugal,EV stock,BEV,2013,Vehicles,1100.0
+Portugal,EV sales,BEV,2013,Vehicles,150.0
+Portugal,EV sales,PHEV,2013,Vehicles,35.0
+Portugal,EV stock,PHEV,2013,Vehicles,37.0
+Portugal,EV stock,PHEV,2014,Vehicles,46.0
+Portugal,EV sales,PHEV,2014,Vehicles,98.0
+Portugal,EV sales,BEV,2014,Vehicles,190.0
+Portugal,EV stock,BEV,2014,Vehicles,1300.0
+Portugal,EV stock,BEV,2015,Vehicles,2000.0
+Portugal,EV sales,BEV,2015,Vehicles,670.0
+Portugal,EV sales,PHEV,2015,Vehicles,430.0
+Portugal,EV stock,PHEV,2015,Vehicles,530.0
+Portugal,EV stock,PHEV,2016,Vehicles,1600.0
+Portugal,EV sales,PHEV,2016,Vehicles,1000.0
+Portugal,EV sales,BEV,2016,Vehicles,800.0
+Portugal,EV stock,BEV,2016,Vehicles,2800.0
+Portugal,EV stock,BEV,2017,Vehicles,4700.0
+Portugal,EV sales,BEV,2017,Vehicles,1900.0
+Portugal,EV sales,PHEV,2017,Vehicles,2500.0
+Portugal,EV stock,PHEV,2017,Vehicles,4100.0
+Portugal,EV stock,PHEV,2018,Vehicles,8000.0
+Portugal,EV sales,PHEV,2018,Vehicles,3900.0
+Portugal,EV sales,BEV,2018,Vehicles,4300.0
+Portugal,EV stock,BEV,2018,Vehicles,8700.0
+Portugal,EV stock,BEV,2019,Vehicles,16000.0
+Portugal,EV sales,BEV,2019,Vehicles,6800.0
+Portugal,EV sales,PHEV,2019,Vehicles,5800.0
+Portugal,EV stock,PHEV,2019,Vehicles,14000.0
+Portugal,EV sales,PHEV,2020,Vehicles,12000.0
+Portugal,EV sales,BEV,2020,Vehicles,7800.0
+Portugal,EV stock,BEV,2020,Vehicles,23000.0
+Portugal,EV stock,PHEV,2020,Vehicles,26000.0
+Portugal,EV stock,PHEV,2021,Vehicles,41000.0
+Portugal,EV stock,BEV,2021,Vehicles,37000.0
+Portugal,EV sales,BEV,2021,Vehicles,13000.0
+Portugal,EV sales,PHEV,2021,Vehicles,16000.0
+Portugal,EV sales,FCEV,2021,Vehicles,1.0
+Portugal,EV stock,FCEV,2021,Vehicles,3.0
+Portugal,EV stock,FCEV,2022,Vehicles,3.0
+Portugal,EV sales,PHEV,2022,Vehicles,16000.0
+Portugal,EV sales,BEV,2022,Vehicles,18000.0
+Portugal,EV stock,BEV,2022,Vehicles,54000.0
+Portugal,EV stock,PHEV,2022,Vehicles,57000.0
+Portugal,EV stock,PHEV,2023,Vehicles,84000.0
+Portugal,EV stock,BEV,2023,Vehicles,91000.0
+Portugal,EV sales,BEV,2023,Vehicles,36000.0
+Portugal,EV sales,PHEV,2023,Vehicles,27000.0
+Portugal,EV stock,FCEV,2023,Vehicles,3.0
+Portugal,EV sales,FCEV,2023,Vehicles,2.0
+Rest of the world,EV sales,BEV,2011,Vehicles,42.0
+Rest of the world,EV stock,BEV,2011,Vehicles,240.0
+Rest of the world,EV stock,BEV,2012,Vehicles,530.0
+Rest of the world,EV sales,BEV,2012,Vehicles,380.0
+Rest of the world,EV sales,PHEV,2012,Vehicles,68.0
+Rest of the world,EV stock,PHEV,2012,Vehicles,68.0
+Rest of the world,EV stock,PHEV,2013,Vehicles,88.0
+Rest of the world,EV sales,PHEV,2013,Vehicles,21.0
+Rest of the world,EV sales,BEV,2013,Vehicles,190.0
+Rest of the world,EV stock,BEV,2013,Vehicles,710.0
+Rest of the world,EV stock,BEV,2014,Vehicles,880.0
+Rest of the world,EV sales,BEV,2014,Vehicles,150.0
+Rest of the world,EV sales,PHEV,2014,Vehicles,400.0
+Rest of the world,EV stock,PHEV,2014,Vehicles,490.0
+Rest of the world,EV stock,PHEV,2015,Vehicles,1400.0
+Rest of the world,EV sales,PHEV,2015,Vehicles,900.0
+Rest of the world,EV sales,BEV,2015,Vehicles,3400.0
+Rest of the world,EV stock,BEV,2015,Vehicles,4900.0
+Rest of the world,EV stock,BEV,2016,Vehicles,5600.0
+Rest of the world,EV sales,BEV,2016,Vehicles,880.0
+Rest of the world,EV sales,PHEV,2016,Vehicles,700.0
+Rest of the world,EV stock,PHEV,2016,Vehicles,2100.0
+Rest of the world,EV stock,PHEV,2017,Vehicles,2600.0
+Rest of the world,EV sales,PHEV,2017,Vehicles,570.0
+Rest of the world,EV sales,BEV,2017,Vehicles,1900.0
+Rest of the world,EV stock,BEV,2017,Vehicles,7300.0
+Rest of the world,EV stock,BEV,2018,Vehicles,8800.0
+Rest of the world,EV sales,BEV,2018,Vehicles,1700.0
+Rest of the world,EV sales,PHEV,2018,Vehicles,2300.0
+Rest of the world,EV stock,PHEV,2018,Vehicles,4900.0
+Rest of the world,EV stock,PHEV,2019,Vehicles,7600.0
+Rest of the world,EV sales,PHEV,2019,Vehicles,2800.0
+Rest of the world,EV sales,BEV,2019,Vehicles,5200.0
+Rest of the world,EV stock,BEV,2019,Vehicles,14000.0
+Rest of the world,EV stock,BEV,2020,Vehicles,25000.0
+Rest of the world,EV sales,BEV,2020,Vehicles,12000.0
+Rest of the world,EV sales,PHEV,2020,Vehicles,3200.0
+Rest of the world,EV sales,FCEV,2020,Vehicles,4.0
+Rest of the world,EV stock,PHEV,2020,Vehicles,11000.0
+Rest of the world,EV stock,FCEV,2020,Vehicles,4.0
+Rest of the world,EV stock,FCEV,2021,Vehicles,4.0
+Rest of the world,EV stock,PHEV,2021,Vehicles,16000.0
+Rest of the world,EV sales,PHEV,2021,Vehicles,5900.0
+Rest of the world,EV sales,BEV,2021,Vehicles,21000.0
+Rest of the world,EV stock,BEV,2021,Vehicles,46000.0
+Rest of the world,EV stock,BEV,2022,Vehicles,93000.0
+Rest of the world,EV sales,BEV,2022,Vehicles,48000.0
+Rest of the world,EV sales,PHEV,2022,Vehicles,7900.0
+Rest of the world,EV sales,FCEV,2022,Vehicles,1.0
+Rest of the world,EV stock,PHEV,2022,Vehicles,24000.0
+Rest of the world,EV stock,FCEV,2022,Vehicles,5.0
+Rest of the world,EV stock,FCEV,2023,Vehicles,5.0
+Rest of the world,EV stock,PHEV,2023,Vehicles,49000.0
+Rest of the world,EV sales,PHEV,2023,Vehicles,26000.0
+Rest of the world,EV sales,BEV,2023,Vehicles,100000.0
+Rest of the world,EV stock,BEV,2023,Vehicles,190000.0
+Romania,EV sales,BEV,2015,Vehicles,24.0
+Romania,EV sales,BEV,2016,Vehicles,74.0
+Romania,EV sales,BEV,2017,Vehicles,190.0
+Romania,EV sales,BEV,2018,Vehicles,600.0
+Romania,EV sales,BEV,2019,Vehicles,1500.0
+Romania,EV sales,BEV,2020,Vehicles,2800.0
+Romania,EV sales,PHEV,2020,Vehicles,1000.0
+Romania,EV sales,BEV,2021,Vehicles,6300.0
+Romania,EV sales,BEV,2022,Vehicles,12000.0
+Romania,EV sales,BEV,2023,Vehicles,15000.0
+Seychelles,EV sales,BEV,2015,Vehicles,3.0
+Seychelles,EV sales,BEV,2016,Vehicles,12.0
+Seychelles,EV sales,BEV,2017,Vehicles,30.0
+Seychelles,EV sales,BEV,2018,Vehicles,32.0
+Seychelles,EV sales,BEV,2019,Vehicles,37.0
+Seychelles,EV sales,BEV,2020,Vehicles,26.0
+Seychelles,EV sales,BEV,2021,Vehicles,61.0
+Seychelles,EV sales,BEV,2022,Vehicles,37.0
+Seychelles,EV sales,BEV,2023,Vehicles,100.0
+Slovakia,EV sales,BEV,2015,Vehicles,52.0
+Slovakia,EV sales,BEV,2016,Vehicles,59.0
+Slovakia,EV sales,BEV,2017,Vehicles,210.0
+Slovakia,EV sales,BEV,2018,Vehicles,290.0
+Slovakia,EV sales,PHEV,2019,Vehicles,200.0
+Slovakia,EV sales,BEV,2019,Vehicles,160.0
+Slovakia,EV sales,BEV,2020,Vehicles,920.0
+Slovakia,EV sales,PHEV,2020,Vehicles,860.0
+Slovakia,EV sales,PHEV,2021,Vehicles,1200.0
+Slovakia,EV sales,BEV,2021,Vehicles,1100.0
+Slovakia,EV sales,BEV,2022,Vehicles,1400.0
+Slovakia,EV sales,PHEV,2022,Vehicles,1600.0
+Slovakia,EV sales,PHEV,2023,Vehicles,3000.0
+Slovakia,EV sales,BEV,2023,Vehicles,2300.0
+Slovenia,EV sales,BEV,2016,Vehicles,140.0
+Slovenia,EV sales,PHEV,2016,Vehicles,46.0
+Slovenia,EV sales,PHEV,2017,Vehicles,170.0
+Slovenia,EV sales,BEV,2017,Vehicles,290.0
+Slovenia,EV sales,BEV,2018,Vehicles,470.0
+Slovenia,EV sales,PHEV,2018,Vehicles,190.0
+Slovenia,EV sales,PHEV,2019,Vehicles,28.0
+Slovenia,EV sales,BEV,2019,Vehicles,190.0
+Slovenia,EV sales,PHEV,2020,Vehicles,39.0
+Slovenia,EV sales,BEV,2020,Vehicles,1600.0
+Slovenia,EV sales,BEV,2021,Vehicles,1700.0
+Slovenia,EV sales,PHEV,2021,Vehicles,310.0
+Slovenia,EV sales,PHEV,2022,Vehicles,590.0
+Slovenia,EV sales,BEV,2022,Vehicles,2300.0
+Slovenia,EV sales,BEV,2023,Vehicles,4300.0
+Slovenia,EV sales,PHEV,2023,Vehicles,1000.0
+South Africa,EV sales,BEV,2013,Vehicles,34.0
+South Africa,EV stock,BEV,2013,Vehicles,34.0
+South Africa,EV stock,PHEV,2014,Vehicles,1.0
+South Africa,EV sales,PHEV,2014,Vehicles,1.0
+South Africa,EV stock,BEV,2014,Vehicles,48.0
+South Africa,EV sales,BEV,2014,Vehicles,14.0
+South Africa,EV sales,BEV,2015,Vehicles,120.0
+South Africa,EV stock,BEV,2015,Vehicles,160.0
+South Africa,EV sales,PHEV,2015,Vehicles,120.0
+South Africa,EV stock,PHEV,2015,Vehicles,120.0
+South Africa,EV stock,PHEV,2016,Vehicles,400.0
+South Africa,EV sales,PHEV,2016,Vehicles,280.0
+South Africa,EV stock,BEV,2016,Vehicles,260.0
+South Africa,EV sales,BEV,2016,Vehicles,100.0
+South Africa,EV sales,BEV,2017,Vehicles,68.0
+South Africa,EV stock,BEV,2017,Vehicles,330.0
+South Africa,EV sales,PHEV,2017,Vehicles,130.0
+South Africa,EV stock,PHEV,2017,Vehicles,530.0
+South Africa,EV stock,PHEV,2018,Vehicles,610.0
+South Africa,EV sales,PHEV,2018,Vehicles,82.0
+South Africa,EV stock,BEV,2018,Vehicles,400.0
+South Africa,EV sales,BEV,2018,Vehicles,66.0
+South Africa,EV sales,BEV,2019,Vehicles,160.0
+South Africa,EV stock,BEV,2019,Vehicles,560.0
+South Africa,EV sales,PHEV,2019,Vehicles,72.0
+South Africa,EV stock,PHEV,2019,Vehicles,680.0
+South Africa,EV stock,PHEV,2020,Vehicles,830.0
+South Africa,EV sales,PHEV,2020,Vehicles,150.0
+South Africa,EV stock,BEV,2020,Vehicles,640.0
+South Africa,EV sales,BEV,2020,Vehicles,92.0
+South Africa,EV sales,BEV,2021,Vehicles,220.0
+South Africa,EV stock,BEV,2021,Vehicles,860.0
+South Africa,EV sales,FCEV,2021,Vehicles,1.0
+South Africa,EV stock,FCEV,2021,Vehicles,1.0
+South Africa,EV sales,PHEV,2021,Vehicles,51.0
+South Africa,EV stock,PHEV,2021,Vehicles,880.0
+South Africa,EV stock,PHEV,2022,Vehicles,820.0
+South Africa,EV sales,PHEV,2022,Vehicles,120.0
+South Africa,EV stock,FCEV,2022,Vehicles,3.0
+South Africa,EV sales,FCEV,2022,Vehicles,2.0
+South Africa,EV stock,BEV,2022,Vehicles,1400.0
+South Africa,EV sales,BEV,2022,Vehicles,500.0
+South Africa,EV sales,BEV,2023,Vehicles,810.0
+South Africa,EV stock,BEV,2023,Vehicles,2200.0
+South Africa,EV sales,PHEV,2023,Vehicles,270.0
+South Africa,EV stock,FCEV,2023,Vehicles,3.0
+South Africa,EV stock,PHEV,2023,Vehicles,1300.0
+Spain,EV stock,BEV,2010,Vehicles,76.0
+Spain,EV sales,BEV,2010,Vehicles,76.0
+Spain,EV sales,BEV,2011,Vehicles,390.0
+Spain,EV stock,BEV,2011,Vehicles,460.0
+Spain,EV sales,PHEV,2011,Vehicles,8.0
+Spain,EV stock,PHEV,2011,Vehicles,8.0
+Spain,EV stock,PHEV,2012,Vehicles,120.0
+Spain,EV sales,PHEV,2012,Vehicles,110.0
+Spain,EV stock,BEV,2012,Vehicles,890.0
+Spain,EV sales,BEV,2012,Vehicles,430.0
+Spain,EV sales,BEV,2013,Vehicles,810.0
+Spain,EV stock,BEV,2013,Vehicles,1700.0
+Spain,EV sales,PHEV,2013,Vehicles,72.0
+Spain,EV stock,PHEV,2013,Vehicles,190.0
+Spain,EV stock,PHEV,2014,Vehicles,520.0
+Spain,EV sales,PHEV,2014,Vehicles,330.0
+Spain,EV stock,BEV,2014,Vehicles,3100.0
+Spain,EV sales,BEV,2014,Vehicles,1400.0
+Spain,EV sales,BEV,2015,Vehicles,1300.0
+Spain,EV stock,BEV,2015,Vehicles,4400.0
+Spain,EV sales,PHEV,2015,Vehicles,780.0
+Spain,EV stock,PHEV,2015,Vehicles,1300.0
+Spain,EV stock,PHEV,2016,Vehicles,2800.0
+Spain,EV sales,PHEV,2016,Vehicles,1500.0
+Spain,EV stock,BEV,2016,Vehicles,6500.0
+Spain,EV sales,BEV,2016,Vehicles,2000.0
+Spain,EV sales,BEV,2017,Vehicles,3900.0
+Spain,EV stock,BEV,2017,Vehicles,10000.0
+Spain,EV sales,PHEV,2017,Vehicles,3500.0
+Spain,EV stock,PHEV,2017,Vehicles,6300.0
+Spain,EV stock,PHEV,2018,Vehicles,12000.0
+Spain,EV sales,PHEV,2018,Vehicles,5600.0
+Spain,EV stock,FCEV,2018,Vehicles,1.0
+Spain,EV stock,BEV,2018,Vehicles,16000.0
+Spain,EV sales,FCEV,2018,Vehicles,1.0
+Spain,EV sales,BEV,2018,Vehicles,6000.0
+Spain,EV sales,BEV,2019,Vehicles,10000.0
+Spain,EV sales,FCEV,2019,Vehicles,1.0
+Spain,EV stock,BEV,2019,Vehicles,26000.0
+Spain,EV stock,FCEV,2019,Vehicles,2.0
+Spain,EV sales,PHEV,2019,Vehicles,7400.0
+Spain,EV stock,PHEV,2019,Vehicles,19000.0
+Spain,EV stock,PHEV,2020,Vehicles,43000.0
+Spain,EV sales,PHEV,2020,Vehicles,24000.0
+Spain,EV stock,FCEV,2020,Vehicles,9.0
+Spain,EV stock,BEV,2020,Vehicles,45000.0
+Spain,EV sales,FCEV,2020,Vehicles,7.0
+Spain,EV sales,BEV,2020,Vehicles,18000.0
+Spain,EV sales,BEV,2021,Vehicles,24000.0
+Spain,EV sales,FCEV,2021,Vehicles,10.0
+Spain,EV stock,BEV,2021,Vehicles,69000.0
+Spain,EV stock,FCEV,2021,Vehicles,19.0
+Spain,EV sales,PHEV,2021,Vehicles,43000.0
+Spain,EV stock,PHEV,2021,Vehicles,86000.0
+Spain,EV stock,PHEV,2022,Vehicles,130000.0
+Spain,EV sales,PHEV,2022,Vehicles,49000.0
+Spain,EV stock,FCEV,2022,Vehicles,23.0
+Spain,EV stock,BEV,2022,Vehicles,96000.0
+Spain,EV sales,FCEV,2022,Vehicles,4.0
+Spain,EV sales,BEV,2022,Vehicles,33000.0
+Spain,EV sales,BEV,2023,Vehicles,57000.0
+Spain,EV sales,FCEV,2023,Vehicles,4.0
+Spain,EV stock,BEV,2023,Vehicles,160000.0
+Spain,EV stock,FCEV,2023,Vehicles,27.0
+Spain,EV sales,PHEV,2023,Vehicles,65000.0
+Spain,EV stock,PHEV,2023,Vehicles,200000.0
+Sweden,EV stock,BEV,2010,Vehicles,4.0
+Sweden,EV sales,BEV,2010,Vehicles,4.0
+Sweden,EV sales,BEV,2011,Vehicles,180.0
+Sweden,EV stock,BEV,2011,Vehicles,180.0
+Sweden,EV stock,BEV,2012,Vehicles,600.0
+Sweden,EV sales,BEV,2012,Vehicles,270.0
+Sweden,EV sales,PHEV,2012,Vehicles,660.0
+Sweden,EV stock,PHEV,2012,Vehicles,650.0
+Sweden,EV stock,PHEV,2013,Vehicles,1600.0
+Sweden,EV sales,PHEV,2013,Vehicles,1100.0
+Sweden,EV stock,FCEV,2013,Vehicles,3.0
+Sweden,EV sales,FCEV,2013,Vehicles,3.0
+Sweden,EV sales,BEV,2013,Vehicles,430.0
+Sweden,EV stock,BEV,2013,Vehicles,1000.0
+Sweden,EV sales,BEV,2014,Vehicles,1200.0
+Sweden,EV stock,FCEV,2014,Vehicles,3.0
+Sweden,EV sales,PHEV,2014,Vehicles,3400.0
+Sweden,EV stock,BEV,2014,Vehicles,2200.0
+Sweden,EV stock,PHEV,2014,Vehicles,4900.0
+Sweden,EV stock,PHEV,2015,Vehicles,9800.0
+Sweden,EV stock,BEV,2015,Vehicles,4800.0
+Sweden,EV sales,PHEV,2015,Vehicles,5700.0
+Sweden,EV stock,FCEV,2015,Vehicles,4.0
+Sweden,EV sales,FCEV,2015,Vehicles,1.0
+Sweden,EV sales,BEV,2015,Vehicles,3000.0
+Sweden,EV sales,BEV,2016,Vehicles,2900.0
+Sweden,EV sales,FCEV,2016,Vehicles,3.0
+Sweden,EV stock,FCEV,2016,Vehicles,7.0
+Sweden,EV sales,PHEV,2016,Vehicles,10000.0
+Sweden,EV stock,BEV,2016,Vehicles,7500.0
+Sweden,EV stock,PHEV,2016,Vehicles,19000.0
+Sweden,EV stock,PHEV,2017,Vehicles,32000.0
+Sweden,EV stock,BEV,2017,Vehicles,11000.0
+Sweden,EV sales,PHEV,2017,Vehicles,16000.0
+Sweden,EV stock,FCEV,2017,Vehicles,21.0
+Sweden,EV sales,FCEV,2017,Vehicles,14.0
+Sweden,EV sales,BEV,2017,Vehicles,4400.0
+Sweden,EV sales,BEV,2018,Vehicles,7100.0
+Sweden,EV stock,FCEV,2018,Vehicles,21.0
+Sweden,EV sales,PHEV,2018,Vehicles,22000.0
+Sweden,EV stock,BEV,2018,Vehicles,17000.0
+Sweden,EV stock,PHEV,2018,Vehicles,49000.0
+Sweden,EV stock,PHEV,2019,Vehicles,67000.0
+Sweden,EV stock,BEV,2019,Vehicles,30000.0
+Sweden,EV sales,PHEV,2019,Vehicles,25000.0
+Sweden,EV stock,FCEV,2019,Vehicles,42.0
+Sweden,EV sales,FCEV,2019,Vehicles,2.0
+Sweden,EV sales,BEV,2019,Vehicles,16000.0
+Sweden,EV sales,BEV,2020,Vehicles,28000.0
+Sweden,EV sales,FCEV,2020,Vehicles,5.0
+Sweden,EV stock,FCEV,2020,Vehicles,47.0
+Sweden,EV sales,PHEV,2020,Vehicles,66000.0
+Sweden,EV stock,BEV,2020,Vehicles,56000.0
+Sweden,EV stock,PHEV,2020,Vehicles,120000.0
+Sweden,EV stock,PHEV,2021,Vehicles,190000.0
+Sweden,EV stock,BEV,2021,Vehicles,110000.0
+Sweden,EV sales,PHEV,2021,Vehicles,78000.0
+Sweden,EV stock,FCEV,2021,Vehicles,63.0
+Sweden,EV sales,FCEV,2021,Vehicles,16.0
+Sweden,EV sales,BEV,2021,Vehicles,57000.0
+Sweden,EV sales,BEV,2022,Vehicles,96000.0
+Sweden,EV sales,FCEV,2022,Vehicles,2.0
+Sweden,EV stock,FCEV,2022,Vehicles,65.0
+Sweden,EV sales,PHEV,2022,Vehicles,67000.0
+Sweden,EV stock,BEV,2022,Vehicles,200000.0
+Sweden,EV stock,PHEV,2022,Vehicles,240000.0
+Sweden,EV stock,PHEV,2023,Vehicles,270000.0
+Sweden,EV stock,BEV,2023,Vehicles,290000.0
+Sweden,EV sales,PHEV,2023,Vehicles,61000.0
+Sweden,EV stock,FCEV,2023,Vehicles,48.0
+Sweden,EV sales,FCEV,2023,Vehicles,2.0
+Sweden,EV sales,BEV,2023,Vehicles,110000.0
+Switzerland,EV sales,BEV,2011,Vehicles,400.0
+Switzerland,EV stock,BEV,2011,Vehicles,400.0
+Switzerland,EV sales,PHEV,2011,Vehicles,41.0
+Switzerland,EV stock,PHEV,2011,Vehicles,41.0
+Switzerland,EV stock,PHEV,2012,Vehicles,440.0
+Switzerland,EV sales,PHEV,2012,Vehicles,400.0
+Switzerland,EV stock,BEV,2012,Vehicles,740.0
+Switzerland,EV sales,BEV,2012,Vehicles,340.0
+Switzerland,EV sales,BEV,2013,Vehicles,1200.0
+Switzerland,EV stock,BEV,2013,Vehicles,1900.0
+Switzerland,EV sales,PHEV,2013,Vehicles,170.0
+Switzerland,EV stock,PHEV,2013,Vehicles,600.0
+Switzerland,EV stock,PHEV,2014,Vehicles,810.0
+Switzerland,EV sales,PHEV,2014,Vehicles,200.0
+Switzerland,EV stock,BEV,2014,Vehicles,4600.0
+Switzerland,EV sales,BEV,2014,Vehicles,2700.0
+Switzerland,EV sales,BEV,2015,Vehicles,3300.0
+Switzerland,EV stock,BEV,2015,Vehicles,7800.0
+Switzerland,EV sales,FCEV,2015,Vehicles,10.0
+Switzerland,EV sales,PHEV,2015,Vehicles,2400.0
+Switzerland,EV stock,FCEV,2015,Vehicles,10.0
+Switzerland,EV stock,PHEV,2015,Vehicles,3200.0
+Switzerland,EV stock,PHEV,2016,Vehicles,5000.0
+Switzerland,EV stock,FCEV,2016,Vehicles,36.0
+Switzerland,EV sales,PHEV,2016,Vehicles,2800.0
+Switzerland,EV sales,FCEV,2016,Vehicles,26.0
+Switzerland,EV stock,BEV,2016,Vehicles,11000.0
+Switzerland,EV sales,BEV,2016,Vehicles,3300.0
+Switzerland,EV sales,BEV,2017,Vehicles,4800.0
+Switzerland,EV stock,BEV,2017,Vehicles,16000.0
+Switzerland,EV sales,FCEV,2017,Vehicles,1.0
+Switzerland,EV sales,PHEV,2017,Vehicles,3600.0
+Switzerland,EV stock,FCEV,2017,Vehicles,37.0
+Switzerland,EV stock,PHEV,2017,Vehicles,9000.0
+Switzerland,EV stock,FCEV,2018,Vehicles,59.0
+Switzerland,EV sales,PHEV,2018,Vehicles,4400.0
+Switzerland,EV sales,FCEV,2018,Vehicles,22.0
+Switzerland,EV stock,BEV,2018,Vehicles,21000.0
+Switzerland,EV sales,BEV,2018,Vehicles,5100.0
+Switzerland,EV stock,PHEV,2018,Vehicles,14000.0
+Switzerland,EV stock,PHEV,2019,Vehicles,16000.0
+Switzerland,EV sales,BEV,2019,Vehicles,13000.0
+Switzerland,EV stock,BEV,2019,Vehicles,34000.0
+Switzerland,EV sales,FCEV,2019,Vehicles,25.0
+Switzerland,EV sales,PHEV,2019,Vehicles,4300.0
+Switzerland,EV stock,FCEV,2019,Vehicles,84.0
+Switzerland,EV stock,FCEV,2020,Vehicles,84.0
+Switzerland,EV sales,PHEV,2020,Vehicles,14000.0
+Switzerland,EV stock,BEV,2020,Vehicles,54000.0
+Switzerland,EV sales,BEV,2020,Vehicles,20000.0
+Switzerland,EV stock,PHEV,2020,Vehicles,30000.0
+Switzerland,EV stock,PHEV,2021,Vehicles,53000.0
+Switzerland,EV sales,BEV,2021,Vehicles,32000.0
+Switzerland,EV stock,BEV,2021,Vehicles,86000.0
+Switzerland,EV sales,FCEV,2021,Vehicles,56.0
+Switzerland,EV sales,PHEV,2021,Vehicles,22000.0
+Switzerland,EV stock,FCEV,2021,Vehicles,140.0
+Switzerland,EV stock,FCEV,2022,Vehicles,210.0
+Switzerland,EV sales,PHEV,2022,Vehicles,19000.0
+Switzerland,EV sales,FCEV,2022,Vehicles,72.0
+Switzerland,EV stock,BEV,2022,Vehicles,130000.0
+Switzerland,EV sales,BEV,2022,Vehicles,40000.0
+Switzerland,EV stock,PHEV,2022,Vehicles,71000.0
+Switzerland,EV stock,PHEV,2023,Vehicles,96000.0
+Switzerland,EV sales,BEV,2023,Vehicles,53000.0
+Switzerland,EV stock,BEV,2023,Vehicles,180000.0
+Switzerland,EV sales,FCEV,2023,Vehicles,27.0
+Switzerland,EV sales,PHEV,2023,Vehicles,23000.0
+Switzerland,EV stock,FCEV,2023,Vehicles,240.0
+Turkiye,EV sales,BEV,2012,Vehicles,92.0
+Turkiye,EV stock,BEV,2013,Vehicles,230.0
+Turkiye,EV sales,PHEV,2013,Vehicles,1.0
+Turkiye,EV sales,PHEV,2014,Vehicles,22.0
+Turkiye,EV stock,BEV,2014,Vehicles,260.0
+Turkiye,EV sales,BEV,2014,Vehicles,46.0
+Turkiye,EV sales,BEV,2015,Vehicles,120.0
+Turkiye,EV stock,BEV,2015,Vehicles,370.0
+Turkiye,EV sales,PHEV,2015,Vehicles,110.0
+Turkiye,EV sales,PHEV,2016,Vehicles,83.0
+Turkiye,EV stock,BEV,2016,Vehicles,420.0
+Turkiye,EV sales,BEV,2016,Vehicles,44.0
+Turkiye,EV stock,PHEV,2016,Vehicles,210.0
+Turkiye,EV stock,PHEV,2017,Vehicles,240.0
+Turkiye,EV sales,BEV,2017,Vehicles,77.0
+Turkiye,EV stock,BEV,2017,Vehicles,500.0
+Turkiye,EV sales,PHEV,2017,Vehicles,34.0
+Turkiye,EV sales,PHEV,2018,Vehicles,45.0
+Turkiye,EV stock,BEV,2018,Vehicles,650.0
+Turkiye,EV sales,BEV,2018,Vehicles,190.0
+Turkiye,EV stock,PHEV,2018,Vehicles,280.0
+Turkiye,EV stock,PHEV,2019,Vehicles,540.0
+Turkiye,EV sales,BEV,2019,Vehicles,230.0
+Turkiye,EV stock,BEV,2019,Vehicles,1300.0
+Turkiye,EV sales,PHEV,2019,Vehicles,94.0
+Turkiye,EV sales,PHEV,2020,Vehicles,400.0
+Turkiye,EV stock,BEV,2020,Vehicles,2900.0
+Turkiye,EV sales,BEV,2020,Vehicles,890.0
+Turkiye,EV stock,PHEV,2020,Vehicles,1000.0
+Turkiye,EV stock,PHEV,2021,Vehicles,1800.0
+Turkiye,EV sales,BEV,2021,Vehicles,3000.0
+Turkiye,EV stock,BEV,2021,Vehicles,6800.0
+Turkiye,EV sales,PHEV,2021,Vehicles,920.0
+Turkiye,EV sales,PHEV,2022,Vehicles,540.0
+Turkiye,EV stock,BEV,2022,Vehicles,14000.0
+Turkiye,EV sales,BEV,2022,Vehicles,7000.0
+Turkiye,EV stock,PHEV,2022,Vehicles,2300.0
+Turkiye,EV stock,PHEV,2023,Vehicles,4900.0
+Turkiye,EV sales,BEV,2023,Vehicles,66000.0
+Turkiye,EV stock,BEV,2023,Vehicles,77000.0
+Turkiye,EV sales,PHEV,2023,Vehicles,2700.0
+United Arab Emirates,EV sales,PHEV,2018,Vehicles,60.0
+United Arab Emirates,EV sales,BEV,2018,Vehicles,59.0
+United Arab Emirates,EV sales,BEV,2019,Vehicles,33.0
+United Arab Emirates,EV sales,PHEV,2019,Vehicles,61.0
+United Arab Emirates,EV sales,PHEV,2020,Vehicles,61.0
+United Arab Emirates,EV sales,BEV,2020,Vehicles,630.0
+United Arab Emirates,EV sales,BEV,2021,Vehicles,2100.0
+United Arab Emirates,EV sales,PHEV,2021,Vehicles,2000.0
+United Arab Emirates,EV sales,PHEV,2022,Vehicles,3900.0
+United Arab Emirates,EV sales,BEV,2022,Vehicles,15000.0
+United Arab Emirates,EV sales,BEV,2023,Vehicles,23000.0
+United Arab Emirates,EV sales,PHEV,2023,Vehicles,5900.0
+United Kingdom,EV stock,BEV,2010,Vehicles,1500.0
+United Kingdom,EV stock,PHEV,2010,Vehicles,21.0
+United Kingdom,EV sales,PHEV,2010,Vehicles,21.0
+United Kingdom,EV sales,BEV,2010,Vehicles,240.0
+United Kingdom,EV sales,BEV,2011,Vehicles,1200.0
+United Kingdom,EV sales,PHEV,2011,Vehicles,7.0
+United Kingdom,EV stock,PHEV,2011,Vehicles,28.0
+United Kingdom,EV stock,BEV,2011,Vehicles,2600.0
+United Kingdom,EV stock,BEV,2012,Vehicles,4100.0
+United Kingdom,EV stock,PHEV,2012,Vehicles,990.0
+United Kingdom,EV sales,PHEV,2012,Vehicles,970.0
+United Kingdom,EV sales,BEV,2012,Vehicles,1600.0
+United Kingdom,EV sales,BEV,2013,Vehicles,2600.0
+United Kingdom,EV sales,PHEV,2013,Vehicles,1100.0
+United Kingdom,EV stock,PHEV,2013,Vehicles,2000.0
+United Kingdom,EV stock,BEV,2013,Vehicles,6200.0
+United Kingdom,EV stock,BEV,2014,Vehicles,12000.0
+United Kingdom,EV stock,PHEV,2014,Vehicles,9700.0
+United Kingdom,EV sales,PHEV,2014,Vehicles,7800.0
+United Kingdom,EV sales,BEV,2014,Vehicles,6700.0
+United Kingdom,EV sales,BEV,2015,Vehicles,10000.0
+United Kingdom,EV sales,PHEV,2015,Vehicles,19000.0
+United Kingdom,EV sales,FCEV,2015,Vehicles,11.0
+United Kingdom,EV stock,PHEV,2015,Vehicles,27000.0
+United Kingdom,EV stock,BEV,2015,Vehicles,21000.0
+United Kingdom,EV stock,BEV,2016,Vehicles,30000.0
+United Kingdom,EV stock,PHEV,2016,Vehicles,55000.0
+United Kingdom,EV sales,FCEV,2016,Vehicles,10.0
+United Kingdom,EV sales,PHEV,2016,Vehicles,29000.0
+United Kingdom,EV sales,BEV,2016,Vehicles,10000.0
+United Kingdom,EV sales,BEV,2017,Vehicles,14000.0
+United Kingdom,EV sales,PHEV,2017,Vehicles,35000.0
+United Kingdom,EV sales,FCEV,2017,Vehicles,34.0
+United Kingdom,EV stock,PHEV,2017,Vehicles,87000.0
+United Kingdom,EV stock,BEV,2017,Vehicles,42000.0
+United Kingdom,EV stock,FCEV,2017,Vehicles,34.0
+United Kingdom,EV stock,FCEV,2018,Vehicles,70.0
+United Kingdom,EV stock,BEV,2018,Vehicles,56000.0
+United Kingdom,EV stock,PHEV,2018,Vehicles,130000.0
+United Kingdom,EV sales,FCEV,2018,Vehicles,36.0
+United Kingdom,EV sales,PHEV,2018,Vehicles,46000.0
+United Kingdom,EV sales,BEV,2018,Vehicles,16000.0
+United Kingdom,EV sales,PHEV,2019,Vehicles,37000.0
+United Kingdom,EV sales,FCEV,2019,Vehicles,68.0
+United Kingdom,EV stock,PHEV,2019,Vehicles,160000.0
+United Kingdom,EV stock,BEV,2019,Vehicles,91000.0
+United Kingdom,EV sales,BEV,2019,Vehicles,38000.0
+United Kingdom,EV stock,FCEV,2019,Vehicles,170.0
+United Kingdom,EV stock,FCEV,2020,Vehicles,230.0
+United Kingdom,EV sales,BEV,2020,Vehicles,110000.0
+United Kingdom,EV stock,BEV,2020,Vehicles,190000.0
+United Kingdom,EV stock,PHEV,2020,Vehicles,220000.0
+United Kingdom,EV sales,FCEV,2020,Vehicles,57.0
+United Kingdom,EV sales,PHEV,2020,Vehicles,68000.0
+United Kingdom,EV sales,PHEV,2021,Vehicles,120000.0
+United Kingdom,EV sales,FCEV,2021,Vehicles,12.0
+United Kingdom,EV stock,PHEV,2021,Vehicles,330000.0
+United Kingdom,EV stock,BEV,2021,Vehicles,380000.0
+United Kingdom,EV sales,BEV,2021,Vehicles,190000.0
+United Kingdom,EV stock,FCEV,2021,Vehicles,240.0
+United Kingdom,EV stock,FCEV,2022,Vehicles,190.0
+United Kingdom,EV sales,BEV,2022,Vehicles,270000.0
+United Kingdom,EV stock,BEV,2022,Vehicles,550000.0
+United Kingdom,EV stock,PHEV,2022,Vehicles,400000.0
+United Kingdom,EV sales,FCEV,2022,Vehicles,7.0
+United Kingdom,EV sales,PHEV,2022,Vehicles,100000.0
+United Kingdom,EV sales,PHEV,2023,Vehicles,140000.0
+United Kingdom,EV sales,FCEV,2023,Vehicles,25.0
+United Kingdom,EV stock,PHEV,2023,Vehicles,600000.0
+United Kingdom,EV stock,BEV,2023,Vehicles,980000.0
+United Kingdom,EV sales,BEV,2023,Vehicles,310000.0
+United Kingdom,EV stock,FCEV,2023,Vehicles,260.0
+USA,EV stock,BEV,2010,Vehicles,3800.0
+USA,EV sales,BEV,2010,Vehicles,1200.0
+USA,EV sales,BEV,2011,Vehicles,9800.0
+USA,EV stock,BEV,2011,Vehicles,14000.0
+USA,EV sales,PHEV,2011,Vehicles,8000.0
+USA,EV stock,PHEV,2011,Vehicles,8000.0
+USA,EV stock,PHEV,2012,Vehicles,47000.0
+USA,EV sales,PHEV,2012,Vehicles,39000.0
+USA,EV stock,BEV,2012,Vehicles,28000.0
+USA,EV sales,BEV,2012,Vehicles,15000.0
+USA,EV sales,BEV,2013,Vehicles,48000.0
+USA,EV stock,BEV,2013,Vehicles,76000.0
+USA,EV sales,PHEV,2013,Vehicles,49000.0
+USA,EV stock,PHEV,2013,Vehicles,96000.0
+USA,EV stock,PHEV,2014,Vehicles,150000.0
+USA,EV sales,PHEV,2014,Vehicles,55000.0
+USA,EV stock,FCEV,2014,Vehicles,55.0
+USA,EV stock,BEV,2014,Vehicles,140000.0
+USA,EV sales,FCEV,2014,Vehicles,55.0
+USA,EV sales,BEV,2014,Vehicles,63000.0
+USA,EV sales,BEV,2015,Vehicles,71000.0
+USA,EV sales,FCEV,2015,Vehicles,100.0
+USA,EV stock,BEV,2015,Vehicles,210000.0
+USA,EV stock,FCEV,2015,Vehicles,160.0
+USA,EV sales,PHEV,2015,Vehicles,43000.0
+USA,EV stock,PHEV,2015,Vehicles,190000.0
+USA,EV stock,PHEV,2016,Vehicles,270000.0
+USA,EV sales,PHEV,2016,Vehicles,73000.0
+USA,EV stock,FCEV,2016,Vehicles,1200.0
+USA,EV stock,BEV,2016,Vehicles,300000.0
+USA,EV sales,FCEV,2016,Vehicles,1100.0
+USA,EV sales,BEV,2016,Vehicles,87000.0
+USA,EV sales,BEV,2017,Vehicles,100000.0
+USA,EV sales,FCEV,2017,Vehicles,2300.0
+USA,EV stock,BEV,2017,Vehicles,400000.0
+USA,EV stock,FCEV,2017,Vehicles,3500.0
+USA,EV sales,PHEV,2017,Vehicles,94000.0
+USA,EV stock,PHEV,2017,Vehicles,360000.0
+USA,EV stock,PHEV,2018,Vehicles,480000.0
+USA,EV sales,PHEV,2018,Vehicles,120000.0
+USA,EV stock,FCEV,2018,Vehicles,6200.0
+USA,EV stock,BEV,2018,Vehicles,640000.0
+USA,EV sales,FCEV,2018,Vehicles,2700.0
+USA,EV sales,BEV,2018,Vehicles,240000.0
+USA,EV sales,BEV,2019,Vehicles,240000.0
+USA,EV sales,FCEV,2019,Vehicles,2000.0
+USA,EV stock,BEV,2019,Vehicles,880000.0
+USA,EV stock,FCEV,2019,Vehicles,8200.0
+USA,EV sales,PHEV,2019,Vehicles,85000.0
+USA,EV stock,PHEV,2019,Vehicles,570000.0
+USA,EV stock,PHEV,2020,Vehicles,640000.0
+USA,EV sales,PHEV,2020,Vehicles,64000.0
+USA,EV stock,FCEV,2020,Vehicles,9200.0
+USA,EV stock,BEV,2020,Vehicles,1100000.0
+USA,EV sales,FCEV,2020,Vehicles,1200.0
+USA,EV sales,BEV,2020,Vehicles,230000.0
+USA,EV sales,BEV,2021,Vehicles,470000.0
+USA,EV sales,FCEV,2021,Vehicles,3100.0
+USA,EV stock,BEV,2021,Vehicles,1500000.0
+USA,EV stock,FCEV,2021,Vehicles,12000.0
+USA,EV sales,PHEV,2021,Vehicles,160000.0
+USA,EV stock,PHEV,2021,Vehicles,720000.0
+USA,EV stock,PHEV,2022,Vehicles,910000.0
+USA,EV sales,PHEV,2022,Vehicles,190000.0
+USA,EV stock,FCEV,2022,Vehicles,15000.0
+USA,EV stock,BEV,2022,Vehicles,2100000.0
+USA,EV sales,FCEV,2022,Vehicles,2700.0
+USA,EV sales,BEV,2022,Vehicles,800000.0
+USA,EV sales,BEV,2023,Vehicles,1100000.0
+USA,EV sales,FCEV,2023,Vehicles,3000.0
+USA,EV stock,BEV,2023,Vehicles,3500000.0
+USA,EV stock,FCEV,2023,Vehicles,18000.0
+USA,EV sales,PHEV,2023,Vehicles,290000.0
+USA,EV stock,PHEV,2023,Vehicles,1300000.0
+World,EV sales,BEV,2010,Vehicles,7000.0
+World,EV stock,BEV,2010,Vehicles,20000.0
+World,EV sales,FCEV,2010,Vehicles,29.0
+World,EV stock,FCEV,2010,Vehicles,45.0
+World,EV sales,PHEV,2010,Vehicles,450.0
+World,EV stock,PHEV,2010,Vehicles,400.0
+World,EV stock,PHEV,2011,Vehicles,9500.0
+World,EV sales,PHEV,2011,Vehicles,9000.0
+World,EV stock,FCEV,2011,Vehicles,83.0
+World,EV sales,FCEV,2011,Vehicles,38.0
+World,EV stock,BEV,2011,Vehicles,58000.0
+World,EV sales,BEV,2011,Vehicles,40000.0
+World,EV sales,BEV,2012,Vehicles,59000.0
+World,EV stock,BEV,2012,Vehicles,120000.0
+World,EV sales,FCEV,2012,Vehicles,30.0
+World,EV stock,FCEV,2012,Vehicles,110.0
+World,EV sales,PHEV,2012,Vehicles,61000.0
+World,EV stock,PHEV,2012,Vehicles,70000.0
+World,EV stock,PHEV,2013,Vehicles,160000.0
+World,EV sales,PHEV,2013,Vehicles,91000.0
+World,EV stock,FCEV,2013,Vehicles,140.0
+World,EV sales,FCEV,2013,Vehicles,46.0
+World,EV stock,BEV,2013,Vehicles,230000.0
+World,EV sales,BEV,2013,Vehicles,110000.0
+World,EV sales,BEV,2014,Vehicles,200000.0
+World,EV stock,BEV,2014,Vehicles,410000.0
+World,EV sales,FCEV,2014,Vehicles,94.0
+World,EV stock,FCEV,2014,Vehicles,210.0
+World,EV sales,PHEV,2014,Vehicles,130000.0
+World,EV stock,PHEV,2014,Vehicles,300000.0
+World,EV stock,PHEV,2015,Vehicles,520000.0
+World,EV sales,PHEV,2015,Vehicles,220000.0
+World,EV stock,FCEV,2015,Vehicles,910.0
+World,EV sales,FCEV,2015,Vehicles,710.0
+World,EV stock,BEV,2015,Vehicles,730000.0
+World,EV sales,BEV,2015,Vehicles,330000.0
+World,EV sales,BEV,2016,Vehicles,470000.0
+World,EV stock,BEV,2016,Vehicles,1200000.0
+World,EV sales,FCEV,2016,Vehicles,2400.0
+World,EV stock,FCEV,2016,Vehicles,3300.0
+World,EV sales,PHEV,2016,Vehicles,290000.0
+World,EV stock,PHEV,2016,Vehicles,810000.0
+World,EV stock,PHEV,2017,Vehicles,1200000.0
+World,EV sales,PHEV,2017,Vehicles,420000.0
+World,EV stock,FCEV,2017,Vehicles,6800.0
+World,EV sales,FCEV,2017,Vehicles,3500.0
+World,EV stock,BEV,2017,Vehicles,1900000.0
+World,EV sales,BEV,2017,Vehicles,760000.0
+World,EV sales,BEV,2018,Vehicles,1400000.0
+World,EV stock,BEV,2018,Vehicles,3300000.0
+World,EV sales,FCEV,2018,Vehicles,4500.0
+World,EV stock,FCEV,2018,Vehicles,11000.0
+World,EV sales,PHEV,2018,Vehicles,660000.0
+World,EV stock,PHEV,2018,Vehicles,1900000.0
+World,EV stock,PHEV,2019,Vehicles,2400000.0
+World,EV sales,PHEV,2019,Vehicles,580000.0
+World,EV stock,FCEV,2019,Vehicles,19000.0
+World,EV sales,FCEV,2019,Vehicles,7500.0
+World,EV stock,BEV,2019,Vehicles,4800000.0
+World,EV sales,BEV,2019,Vehicles,1500000.0
+World,EV sales,BEV,2020,Vehicles,2000000.0
+World,EV stock,BEV,2020,Vehicles,6800000.0
+World,EV sales,FCEV,2020,Vehicles,7400.0
+World,EV stock,FCEV,2020,Vehicles,26000.0
+World,EV sales,PHEV,2020,Vehicles,980000.0
+World,EV stock,PHEV,2020,Vehicles,3400000.0
+World,EV stock,PHEV,2021,Vehicles,5300000.0
+World,EV sales,PHEV,2021,Vehicles,1900000.0
+World,EV stock,FCEV,2021,Vehicles,42000.0
+World,EV sales,FCEV,2021,Vehicles,16000.0
+World,EV stock,BEV,2021,Vehicles,11000000.0
+World,EV sales,BEV,2021,Vehicles,4700000.0
+World,EV sales,BEV,2022,Vehicles,7300000.0
+World,EV stock,BEV,2022,Vehicles,18000000.0
+World,EV sales,FCEV,2022,Vehicles,15000.0
+World,EV stock,FCEV,2022,Vehicles,57000.0
+World,EV sales,PHEV,2022,Vehicles,2900000.0
+World,EV stock,PHEV,2022,Vehicles,8000000.0
+World,EV stock,PHEV,2023,Vehicles,12000000.0
+World,EV sales,PHEV,2023,Vehicles,4300000.0
+World,EV stock,FCEV,2023,Vehicles,66000.0
+World,EV sales,FCEV,2023,Vehicles,8900.0
+World,EV stock,BEV,2023,Vehicles,28000000.0
+World,EV sales,BEV,2023,Vehicles,9500000.0
