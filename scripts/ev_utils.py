@@ -1,5 +1,7 @@
 import pandas as pd
 
+default_countries = ['Germany', 'France', 'Spain', 'EU27']
+
 def veh_evo(df, powertrain, region, start_year, end_year, verbose=False):
 
     """
