@@ -28,6 +28,19 @@ Le dataset complet peut être trouvé dans le fichier `EV_sales.csv`.
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+## Configuration Python
+Pour repartir proprement sur une machine neuve :
+
+```bash
+cd "<chemin/vers/le/projet>"
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+Ensuite, vous pouvez lancer Jupyter ou exécuter les scripts dans le dossier `scripts/`.
+
 ## Fonctions principales
 `per_evo(df, powertrain, region, start_year, end_year, verbose=False)`  
 Calcule la variation en pourcentage des ventes d’EV pour un pays et type de motorisation donnés entre deux années.
